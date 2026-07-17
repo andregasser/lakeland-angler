@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# Editor and operating-system temporary files
+*.swp
+*.swo
+*~
+
+# Local editor settings
+.idea/
+.vscode/
