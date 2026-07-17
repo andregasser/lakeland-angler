@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1200" role="img" aria-label="Bobber Rig">
+  <rect width="600" height="1200" fill="#FAF8F2"/>
+  <g id="main-line" fill="none" stroke="#173F4F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 55V305"/>
+    <path d="M300 475V690"/>
+    <path d="M300 730V1010"/>
+  </g>
+  <g id="bobber" stroke="#202B30" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 285v-40" fill="none"/>
+    <path d="M300 495v-40" fill="none"/>
+    <path d="M300 300c-55 0-82 43-82 87s27 87 82 87 82-43 82-87-27-87-82-87Z" fill="#FAF8F2"/>
+    <path d="M221 373h158c2 8 3 17 3 26 0 44-27 75-82 75s-82-31-82-75c0-9 1-18 3-26Z" fill="#D97932"/>
+  </g>
+  <g id="split-shot" fill="#202B30" stroke="#202B30" stroke-width="5">
+    <circle cx="300" cy="710" r="22"/>
+    <path d="M284 694l32 32" stroke="#FAF8F2"/>
+  </g>
+  <g id="hook" fill="none" stroke="#202B30" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 1010v70c0 66 100 68 100-8 0-45-38-59-70-37"/>
+    <path d="M330 1035l21 3-8 20"/>
+  </g>
+  <g id="bait" fill="#D8C7A5" stroke="#202B30" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M279 1031c-21 15-32 43-17 58 17 17 43-1 58 14 12 12 5 31-7 42 27-10 43-35 28-55-17-23-45-4-58-22-8-11-3-26 8-37Z"/>
+  </g>
+</svg>
