@@ -4,7 +4,7 @@ titel: "Regeln und Lizenz kompakt"
 seitentyp: "Regeln und Sicherheit"
 zielseiten: "7"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-001", "SRC-FWC-002", "SRC-FWC-003", "SRC-FWC-004", "SRC-FWC-005", "SRC-FWC-023", "SRC-FDOH-001"]
 asset_ids: ["RULES-CHECK-001", "ICON-RULES-SET-001"]

@@ -4,7 +4,7 @@ titel: "April"
 seitentyp: "Monatsprofil"
 zielseiten: "12"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-014", "SRC-FWC-016", "SRC-FWC-017", "SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-025", "SRC-NWS-005"]
 asset_ids: ["MONTH-APRIL-001", "CHART-APRIL-RANKING-001"]

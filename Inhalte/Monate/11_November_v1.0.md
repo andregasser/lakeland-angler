@@ -4,7 +4,7 @@ titel: "November"
 seitentyp: "Monatsprofil"
 zielseiten: "19"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-006", "SRC-FWC-014", "SRC-FWC-015", "SRC-FWC-018", "SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-025", "SRC-NWS-006"]
 asset_ids: ["MONTH-NOVEMBER-001", "CHART-NOVEMBER-RANKING-001"]

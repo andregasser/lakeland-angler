@@ -4,7 +4,7 @@ titel: "Minnows und Köderfische"
 seitentyp: "Köderübersicht"
 zielseiten: "32"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-002", "SRC-FWC-010", "SRC-FWC-015", "SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-026"]
 asset_ids: ["BAIT-MINNOW-SET-001"]

@@ -4,7 +4,7 @@ titel: "Saddle Creek"
 seitentyp: "Gewässerprofil"
 zielseiten: "46"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-005", "SRC-FWC-013", "SRC-FWC-023", "SRC-FDOH-004", "SRC-FWC-011"]
 asset_ids: ["MAP-SADDLE-CREEK-001", "ICON-SHORE-ACCESS-001", "ICON-BOAT-ACCESS-001"]

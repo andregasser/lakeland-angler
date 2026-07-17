@@ -4,7 +4,7 @@ titel: "Texas Rig und einfache Knoten"
 seitentyp: "Montageübersicht"
 zielseiten: "38"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-024", "SRC-FWC-027"]
 asset_ids: ["RIG-TEXAS-001", "KNOT-CLINCH-001", "KNOT-PALOMAR-001"]

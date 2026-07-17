@@ -4,7 +4,7 @@ titel: "Jigs und Softbaits"
 seitentyp: "Köderübersicht"
 zielseiten: "33"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-010", "SRC-FWC-015", "SRC-FWC-016", "SRC-FWC-019", "SRC-FWC-021"]
 asset_ids: ["BAIT-JIG-SOFTBAIT-SET-001"]

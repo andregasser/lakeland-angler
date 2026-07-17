@@ -4,7 +4,7 @@ titel: "Inhaltsverzeichnis"
 seitentyp: "Standardseite"
 zielseiten: "4"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: []
 asset_ids: []

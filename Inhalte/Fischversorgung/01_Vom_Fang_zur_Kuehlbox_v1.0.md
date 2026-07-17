@@ -4,7 +4,7 @@ titel: "Vom Fang zur Kühlbox"
 seitentyp: "Prozessseite Fischversorgung"
 zielseiten: "52"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-001", "SRC-FWC-002", "SRC-FDOH-001", "SRC-FDOH-003", "SRC-PSU-001", "SRC-UF-001"]
 asset_ids: ["PROCESS-CATCH-TO-COOLER-001"]

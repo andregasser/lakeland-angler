@@ -4,7 +4,7 @@ titel: "Haken, Posen und Gewichte"
 seitentyp: "Ausrüstungsübersicht"
 zielseiten: "41"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-015", "SRC-FWC-016", "SRC-FWC-017", "SRC-FWC-026"]
 asset_ids: ["GEAR-TERMINAL-TACKLE-001"]

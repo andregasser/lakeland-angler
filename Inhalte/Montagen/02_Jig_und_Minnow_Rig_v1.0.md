@@ -4,7 +4,7 @@ titel: "Jig und Minnow Rig"
 seitentyp: "Montagezeichnung"
 zielseiten: "36"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-015", "SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-027"]
 asset_ids: ["RIG-JIG-MINNOW-001"]

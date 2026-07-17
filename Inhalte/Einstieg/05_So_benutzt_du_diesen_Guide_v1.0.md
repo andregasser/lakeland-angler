@@ -4,7 +4,7 @@ titel: "So benutzt du diesen Guide"
 seitentyp: "Infoseite"
 zielseiten: "5"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-003", "SRC-FWC-023"]
 asset_ids: ["NAV-GUIDE-LOGIC-001", "ICON-INFOBOX-SET-001"]

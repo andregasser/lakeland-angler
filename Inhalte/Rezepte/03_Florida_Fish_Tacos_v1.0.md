@@ -4,7 +4,7 @@ titel: "Florida Fish Tacos"
 seitentyp: "Rezeptseite"
 zielseiten: "57"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FDOH-001", "SRC-USDA-001", "SRC-USDA-002"]
 asset_ids: ["RECIPE-FISH-TACOS-001", "ICON-TIME-001", "ICON-TEMPERATURE-001"]

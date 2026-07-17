@@ -4,7 +4,7 @@ titel: "Oktober"
 seitentyp: "Monatsprofil"
 zielseiten: "18"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-014", "SRC-FWC-015", "SRC-FWC-016", "SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-025", "SRC-NWS-005", "SRC-NWS-006"]
 asset_ids: ["MONTH-OCTOBER-001", "CHART-OCTOBER-RANKING-001"]

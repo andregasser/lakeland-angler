@@ -4,7 +4,7 @@ titel: "Tenoroc"
 seitentyp: "Gewässerprofil"
 zielseiten: "44"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-005", "SRC-FWC-006", "SRC-FWC-007", "SRC-FWC-023", "SRC-FDOH-004"]
 asset_ids: ["MAP-TENOROC-001", "ICON-SHORE-ACCESS-001", "ICON-BOAT-ACCESS-001"]

@@ -4,7 +4,7 @@ titel: "Lakeland Angler"
 seitentyp: "Cover"
 zielseiten: "1"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: []
 asset_ids: ["COVER-LAKELAND-ANGLER-001"]

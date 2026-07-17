@@ -4,7 +4,7 @@ titel: "August"
 seitentyp: "Monatsprofil"
 zielseiten: "16"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-006", "SRC-FWC-008", "SRC-FWC-016", "SRC-FWC-021", "SRC-FWC-025", "SRC-NWS-005", "SRC-NWS-002", "SRC-NWS-003"]
 asset_ids: ["MONTH-AUGUST-001", "CHART-AUGUST-RANKING-001"]

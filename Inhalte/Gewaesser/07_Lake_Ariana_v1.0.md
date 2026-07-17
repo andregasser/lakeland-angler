@@ -4,7 +4,7 @@ titel: "Lake Ariana"
 seitentyp: "Gewässerprofil"
 zielseiten: "50"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-USF-004", "SRC-AUBURNDALE-001", "SRC-AUBURNDALE-002", "SRC-POLK-001", "SRC-FDOH-004", "SRC-FWC-011"]
 asset_ids: ["MAP-LAKE-ARIANA-001", "ICON-SHORE-ACCESS-001", "ICON-BOAT-ACCESS-001"]

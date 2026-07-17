@@ -4,7 +4,7 @@ titel: "Grundausrüstung"
 seitentyp: "Ausrüstungsübersicht"
 zielseiten: "39"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-003", "SRC-FWC-023", "SRC-FWC-026", "SRC-FWC-027", "SRC-NWS-004", "SRC-USCG-001"]
 asset_ids: ["GEAR-BASIC-SET-001"]

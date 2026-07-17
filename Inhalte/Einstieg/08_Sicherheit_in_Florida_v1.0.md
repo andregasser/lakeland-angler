@@ -4,7 +4,7 @@ titel: "Sicherheit in Florida"
 seitentyp: "Warnseite"
 zielseiten: "8"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-011", "SRC-FWC-012", "SRC-FDOH-003", "SRC-NWS-001", "SRC-NWS-003", "SRC-NWS-004", "SRC-USCG-001"]
 asset_ids: ["SAFETY-FLORIDA-001", "ICON-SAFETY-SET-001"]

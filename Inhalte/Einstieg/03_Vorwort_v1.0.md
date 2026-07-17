@@ -4,7 +4,7 @@ titel: "Vorwort"
 seitentyp: "Editorial"
 zielseiten: "3"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: []
 asset_ids: ["EDITORIAL-LAKELAND-MORNING-001"]

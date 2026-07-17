@@ -4,7 +4,7 @@ titel: "Köder, Montagen und Ausrüstung"
 seitentyp: "Quick Reference Card"
 zielseiten: "59"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-014", "SRC-FWC-015", "SRC-FWC-016", "SRC-FWC-017", "SRC-FWC-026", "SRC-FWC-027"]
 asset_ids: ["QRC-BAIT-RIG-GEAR-001"]

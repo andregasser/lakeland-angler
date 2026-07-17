@@ -4,7 +4,7 @@ titel: "Kühlung, Werkzeug und Sicherheit"
 seitentyp: "Ausrüstungsübersicht"
 zielseiten: "42"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-011", "SRC-FWC-023", "SRC-FWC-027", "SRC-FDOH-001", "SRC-NWS-001", "SRC-NWS-003", "SRC-NWS-004", "SRC-UF-001", "SRC-USCG-001"]
 asset_ids: ["GEAR-SAFETY-SET-001"]

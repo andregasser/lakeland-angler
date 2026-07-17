@@ -4,7 +4,7 @@ titel: "Februar"
 seitentyp: "Monatsprofil"
 zielseiten: "10"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-015", "SRC-FWC-018", "SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-022", "SRC-FWC-025", "SRC-NWS-006"]
 asset_ids: ["MONTH-FEBRUARY-001", "CHART-FEBRUARY-RANKING-001"]

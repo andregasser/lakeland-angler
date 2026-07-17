@@ -4,7 +4,7 @@ titel: "Lake Hartridge"
 seitentyp: "Gewässerprofil"
 zielseiten: "51"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-021", "SRC-FWC-022", "SRC-FWC-023", "SRC-FDOH-004", "SRC-FWC-011"]
 asset_ids: ["MAP-LAKE-HARTRIDGE-001", "ICON-SHORE-ACCESS-001", "ICON-BOAT-ACCESS-001"]

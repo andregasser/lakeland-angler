@@ -4,7 +4,7 @@ titel: "Lakeland im Überblick"
 seitentyp: "Übersichtskarte"
 zielseiten: "43"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-005", "SRC-FWC-006", "SRC-FWC-013", "SRC-FWC-019", "SRC-FWC-020", "SRC-FWC-021", "SRC-POLK-001", "SRC-POLK-003", "SRC-AUBURNDALE-001"]
 asset_ids: ["MAP-LAKELAND-REGION-001", "ICON-SHORE-ACCESS-001", "ICON-BOAT-ACCESS-001"]

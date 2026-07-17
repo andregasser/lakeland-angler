@@ -4,7 +4,7 @@ titel: "Redear Sunfish"
 seitentyp: "Fischprofil-Doppelseite"
 zielseiten: "27–28"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids:
   - "SRC-FWC-001"

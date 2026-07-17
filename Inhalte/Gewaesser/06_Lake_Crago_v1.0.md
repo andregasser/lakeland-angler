@@ -4,7 +4,7 @@ titel: "Lake Crago"
 seitentyp: "Gewässerprofil"
 zielseiten: "49"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-005", "SRC-FWC-019", "SRC-FWC-020", "SRC-FWC-023", "SRC-FDOH-004", "SRC-FWC-011"]
 asset_ids: ["MAP-LAKE-CRAGO-001", "ICON-BOAT-ACCESS-001", "ICON-IDLE-SPEED-001"]

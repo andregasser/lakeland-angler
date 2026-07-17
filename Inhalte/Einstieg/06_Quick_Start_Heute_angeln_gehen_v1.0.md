@@ -4,7 +4,7 @@ titel: "Quick Start: Heute angeln gehen"
 seitentyp: "Quick Start"
 zielseiten: "6"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-003", "SRC-FWC-023", "SRC-FWC-026", "SRC-NWS-001", "SRC-USCG-001"]
 asset_ids: ["QUICKSTART-DAY-PLAN-001"]

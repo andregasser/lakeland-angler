@@ -4,7 +4,7 @@ titel: "Banana Lake"
 seitentyp: "Gewässerprofil"
 zielseiten: "48"
 version: "1.0"
-status: "Redaktioneller Entwurf"
+status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-POLK-002", "SRC-POLK-003", "SRC-FDOH-004", "SRC-FWC-023", "SRC-FWC-011"]
 asset_ids: ["MAP-BANANA-LAKE-001", "ICON-SHORE-ACCESS-001", "ICON-BOAT-ACCESS-001"]
