@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="Palomar-Knoten">
+  <rect width="1200" height="600" fill="#FAF8F2"/>
+  <ellipse cx="260" cy="300" rx="70" ry="105" fill="none" stroke="#202B30" stroke-width="14"/>
+  <g fill="none" stroke="#173F4F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 275h190c110 0 130-120 255-120 145 0 145 290 0 290-125 0-145-120-255-120H70"/>
+    <path d="M515 155c150 10 245 35 330 145 65 85 175 100 285 45" stroke="#D97932"/>
+    <path d="M515 445c150-10 245-35 330-145 65-85 175-100 285-45"/>
+  </g>
+</svg>

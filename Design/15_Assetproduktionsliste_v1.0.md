@@ -25,26 +25,26 @@ Diese Liste ist das verbindliche Produktionsregister für die 60-Seiten-Fassung.
 
 | Priorität | Asset-ID | Typ | Zielseiten | Wiederverwendung | Masterformat | Abhängigkeit | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| P1 | FISH-BLACK-CRAPPIE-001 | Fischillustration | 21–22 | nein | PNG transparent | Fachreferenz und Bildstil | Fachlich zu prüfen |
-| P1 | FISH-BLUE-TILAPIA-001 | Fischillustration | 23–24 | nein | PNG transparent | Fachreferenz und Bildstil | Geplant |
-| P1 | FISH-BLUEGILL-001 | Fischillustration | 25–26 | nein | PNG transparent | Fachreferenz und Bildstil | Geplant |
-| P1 | FISH-LARGEMOUTH-BASS-001 | Fischillustration | 29–30 | nein | PNG transparent | Fachreferenz und Bildstil | Geplant |
-| P1 | FISH-REDEAR-SUNFISH-001 | Fischillustration | 27–28 | nein | PNG transparent | Fachreferenz und Bildstil | Geplant |
+| P1 | FISH-BLACK-CRAPPIE-001 | Fischillustration | 21–22 | nein | PNG transparent | Fachreferenz und Bildstil | Fertig |
+| P1 | FISH-BLUE-TILAPIA-001 | Fischillustration | 23–24 | nein | PNG transparent | Fachreferenz und Bildstil | Fertig |
+| P1 | FISH-BLUEGILL-001 | Fischillustration | 25–26 | nein | PNG transparent | Fachreferenz und Bildstil | Fertig |
+| P1 | FISH-LARGEMOUTH-BASS-001 | Fischillustration | 29–30 | nein | PNG transparent | Fachreferenz und Bildstil | Fertig |
+| P1 | FISH-REDEAR-SUNFISH-001 | Fischillustration | 27–28 | nein | PNG transparent | Fachreferenz und Bildstil | Fertig |
 | P1 | ICON-BOAT-ACCESS-001 | Icon | 43, 44, 45, 46, 47, 48, 49, 50, 51 | ja (9 Seitenmodule) | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
-| P1 | ICON-DATA-CAUTION-001 | Icon | 47 | nein | SVG + PNG | Iconraster und Strichstärke | Geplant |
-| P1 | ICON-IDLE-SPEED-001 | Icon | 49 | nein | SVG + PNG | Iconraster und Strichstärke | Geplant |
-| P1 | ICON-INFOBOX-SET-001 | Icon | 5 | nein | SVG + PNG | Iconraster und Strichstärke | Geplant |
-| P1 | ICON-RULES-SET-001 | Icon | 7 | nein | SVG + PNG | Iconraster und Strichstärke | Geplant |
-| P1 | ICON-SAFETY-SET-001 | Icon | 8 | nein | SVG + PNG | Iconraster und Strichstärke | Geplant |
+| P1 | ICON-DATA-CAUTION-001 | Icon | 47 | nein | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
+| P1 | ICON-IDLE-SPEED-001 | Icon | 49 | nein | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
+| P1 | ICON-INFOBOX-SET-001 | Icon | 5 | nein | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
+| P1 | ICON-RULES-SET-001 | Icon | 7 | nein | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
+| P1 | ICON-SAFETY-SET-001 | Icon | 8 | nein | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
 | P1 | ICON-SHORE-ACCESS-001 | Icon | 43, 44, 45, 46, 48, 50, 51 | ja (7 Seitenmodule) | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
 | P1 | ICON-TEMPERATURE-001 | Icon | 55, 56, 57 | ja (3 Seitenmodule) | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
 | P1 | ICON-TIME-001 | Icon | 55, 56, 57 | ja (3 Seitenmodule) | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
-| P1 | KNOT-CLINCH-001 | Knotendiagramm | 38 | nein | SVG + PNG | fachliche Montageabnahme | Geplant |
-| P1 | KNOT-PALOMAR-001 | Knotendiagramm | 38 | nein | SVG + PNG | fachliche Montageabnahme | Geplant |
+| P1 | KNOT-CLINCH-001 | Knotendiagramm | 38 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
+| P1 | KNOT-PALOMAR-001 | Knotendiagramm | 38 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
 | P1 | RIG-BOBBER-001 | Montagezeichnung | 35 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
-| P1 | RIG-BOTTOM-001 | Montagezeichnung | 37 | nein | SVG + PNG | fachliche Montageabnahme | Geplant |
-| P1 | RIG-JIG-MINNOW-001 | Montagezeichnung | 36 | nein | SVG + PNG | fachliche Montageabnahme | Geplant |
-| P1 | RIG-TEXAS-001 | Montagezeichnung | 38 | nein | SVG + PNG | fachliche Montageabnahme | Geplant |
+| P1 | RIG-BOTTOM-001 | Montagezeichnung | 37 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
+| P1 | RIG-JIG-MINNOW-001 | Montagezeichnung | 36 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
+| P1 | RIG-TEXAS-001 | Montagezeichnung | 38 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
 | P2 | GEAR-BASIC-SET-001 | Ausrüstungsset | 39 | nein | PNG transparent | Geräteabnahme | Geplant |
 | P2 | GEAR-COMBO-001 | Ausrüstungsset | 40 | nein | PNG transparent | Geräteabnahme | Geplant |
 | P2 | GEAR-SAFETY-SET-001 | Ausrüstungsset | 42 | nein | PNG transparent | Geräteabnahme | Geplant |

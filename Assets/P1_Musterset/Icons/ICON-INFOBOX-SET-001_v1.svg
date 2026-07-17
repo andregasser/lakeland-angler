@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Infobox-Symbole">
+  <g fill="none" stroke="#173F4F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="34" cy="34" r="22"/><path d="M34 29v17M34 21h.1"/>
+    <path d="M94 12l23 42H71Z"/><path d="M94 25v13M94 45h.1"/>
+    <path d="M12 91h44M18 76h32v30H18Z"/><path d="M27 76c0-8 14-8 14 0"/>
+    <circle cx="94" cy="94" r="22"/><path d="M84 95l7 7 14-17"/>
+  </g>
+</svg>

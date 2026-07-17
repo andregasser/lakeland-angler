@@ -25,10 +25,19 @@ Das krautarme Bass-Rig plus zwei Knoten für fast alle Endgeräte im Guide.
 2. Offsethaken mit Palomar- oder Clinch-Knoten anbinden.
 3. Softplastic vorne einstechen, drehen und gerade, krautarm auf den Haken setzen.
 
-## Knoten
+## Clinch-Knoten
 
-- **Clinch:** Schnur durchs Öhr, fünf Windungen, durch erste und große Schlaufe, anfeuchten und festziehen.
-- **Palomar:** Schnur doppeln, durchs Öhr, Überhandknoten, Schlaufe über den Köder, anfeuchten und festziehen.
+1. Schnurende etwa 15 cm durch das Öhr führen.
+2. Ende fünfmal um die Hauptschnur wickeln.
+3. Durch die kleine Schlaufe am Öhr und danach durch die große Schlaufe führen.
+4. Anfeuchten, gleichmäßig festziehen und Restende kürzen.
+
+## Palomar-Knoten
+
+1. Etwa 20 cm Schnur doppeln und die Schlaufe durchs Öhr führen.
+2. Mit der doppelten Schnur einen lockeren Überhandknoten legen.
+3. Die große Schlaufe vollständig über Haken oder Köder führen.
+4. Anfeuchten, beide Schnurteile gleichmäßig anziehen und Restende kürzen.
 
 ## Anwendung
 

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="Clinch-Knoten">
+  <rect width="1200" height="600" fill="#FAF8F2"/>
+  <g fill="none" stroke="#173F4F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 300h250c85 0 85-130 0-130-70 0-70 260 0 260 92 0 92-160 0-160"/>
+    <path d="M330 270c110-100 220-100 330 0s220 100 330 0"/>
+    <path d="M330 320c110-100 220-100 330 0s220 100 330 0"/>
+    <path d="M330 370c110-100 220-100 330 0s220 100 330 0"/>
+    <path d="M990 270c70 0 110 45 130 110" stroke="#D97932"/>
+  </g>
+  <ellipse cx="250" cy="300" rx="65" ry="100" fill="none" stroke="#202B30" stroke-width="14"/>
+</svg>

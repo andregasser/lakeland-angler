@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1200" role="img" aria-label="Texas Rig">
+  <rect width="600" height="1200" fill="#FAF8F2"/>
+  <path d="M300 60v330" fill="none" stroke="#173F4F" stroke-width="7" stroke-linecap="round"/>
+  <path d="M300 365l-55 125h110Z" fill="#202B30" stroke="#202B30" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M300 490v125" fill="none" stroke="#173F4F" stroke-width="7"/>
+  <g fill="none" stroke="#202B30" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="M300 615v190c0 90 125 92 125-15 0-62-50-82-92-49"/><path d="M333 741l28 4-10 26"/></g>
+  <path d="M270 600c-38 85-45 185 9 258 35 48 82 35 96-7-31 22-56 3-59-35-5-70 19-136 6-216Z" fill="#64805A" stroke="#202B30" stroke-width="6" stroke-linejoin="round"/>
+</svg>

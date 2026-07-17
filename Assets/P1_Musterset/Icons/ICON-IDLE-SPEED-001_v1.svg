@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Langsamfahrt">
+  <g fill="none" stroke="#173F4F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 35h42l-6 9H18Z"/><path d="M22 35V25h18l7 10"/><path d="M12 50c4-3 8-3 12 0s8 3 12 0 8-3 12 0"/>
+    <path d="M13 18h16M9 24h13" stroke="#D97932"/>
+  </g>
+</svg>

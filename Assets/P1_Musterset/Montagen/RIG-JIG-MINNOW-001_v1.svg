@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1200" role="img" aria-label="Jig-und-Minnow-Rig">
+  <rect width="600" height="1200" fill="#FAF8F2"/>
+  <path d="M300 60v600" fill="none" stroke="#173F4F" stroke-width="7" stroke-linecap="round"/>
+  <g stroke="#202B30" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="300" cy="710" r="48" fill="#D97932"/><path d="M300 758v130c0 75 110 72 110-12 0-48-39-65-75-40" fill="none"/><path d="M335 836l23 3-8 22" fill="none"/>
+  </g>
+  <g fill="#D8C7A5" stroke="#202B30" stroke-width="6" stroke-linejoin="round">
+    <path d="M195 800c55-60 145-52 190 13-45 64-135 73-190 12l-55 34 18-49-18-45Z"/>
+    <circle cx="230" cy="807" r="7" fill="#202B30"/>
+  </g>
+</svg>
