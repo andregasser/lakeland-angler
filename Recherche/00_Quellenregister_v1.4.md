@@ -64,6 +64,10 @@
 | SRC-UF-001 | University of Florida IFAS Extension | Einkauf, Transport und sichere Handhabung von Fisch | [Shopping for Health: Seafood (PDF)](https://edis.ifas.ufl.edu/publication/FS247/pdf) | 2026-07-17 | B |
 | SRC-USDA-001 | U.S. Department of Agriculture, Food Safety and Inspection Service | sichere Kerntemperatur für Fisch | [Safe Minimum Internal Temperature Chart](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) | 2026-07-17 | C |
 | SRC-USFWS-001 | U.S. Fish and Wildlife Service | Black Crappie Bestimmung und Abgrenzung | [Black Crappie](https://www.fws.gov/species/black-crappie-pomoxis-nigromaculatus) | 2026-07-17 | B |
+| SRC-FWC-025 | Florida Fish and Wildlife Conservation Commission | Temperaturbereiche und saisonaler Angelkalender | [Temperature and Fishing](https://myfwc.com/fishing/freshwater/fishing-tips/temperatures/) | 2026-07-17 | B/C |
+| SRC-NCEI-001 | NOAA National Centers for Environmental Information | US Climate Normals 1991–2020 | [U.S. Climate Normals](https://www.ncei.noaa.gov/products/land-based-station/us-climate-normals) | 2026-07-17 | B |
+| SRC-NWS-005 | National Weather Service Tampa Bay | Regen- und Gewittersaison West Central Florida | [Florida Thunderstorm Season](https://www.weather.gov/tbw/RainySeason) | 2026-07-17 | B/C |
+| SRC-NWS-006 | National Weather Service Tampa Bay | lokale Klimadaten Lakeland | [NWS Tampa Bay Local Climate](https://www.weather.gov/tbw/tampabayoriginalclimatepage) | 2026-07-17 | B/C |
 
 ## Noch benötigte Primärquellen
 
