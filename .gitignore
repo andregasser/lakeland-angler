@@ -14,3 +14,6 @@
 # Generated asset proofs and rejected variants
 Assets/Proofs/**/*_chroma.png
 Assets/Proofs/**/*_rejected.png
+
+# Local render intermediates
+tmp/

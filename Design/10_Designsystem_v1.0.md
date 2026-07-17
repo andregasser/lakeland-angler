@@ -257,3 +257,11 @@ Komponenten:
 - Doppelseite mit Karte
 
 Diese Komponenten werden im gesamten Buch konsistent eingesetzt.
+
+---
+
+## Verbindliche Editorial Art Direction
+
+Die konkrete magazinartige Seitenwirkung wird in `Design/17_Editorial_Art_Direction_v1.0.md` definiert.
+
+Der dort referenzierte V5-Proof für Seite 38 ist die freigegebene visuelle Richtungsreferenz. Wiederverwendbare Komponenten müssen in eine zusammenhängende, bildstarke Seitenkomposition integriert werden. Sie dürfen nicht als starres Kartenraster, technische Arbeitsblattoptik oder Sammlung isolierter Boxen erscheinen.

@@ -203,3 +203,11 @@ Vor der Freigabe jedes Bildes wird geprüft:
 - entspricht die Illustration den Vorgaben dieses Dokuments?
 
 Nur freigegebene Assets dürfen im Buchlayout verwendet werden.
+
+---
+
+## Einsatz im Editorial-Layout
+
+Die verbindliche Komposition und Gewichtung der Bilder wird in `Design/17_Editorial_Art_Direction_v1.0.md` beschrieben.
+
+Fotografie und realistische Editorial-Illustration dürfen vollflächig eingesetzt, angeschnitten und überlagert werden. Bei Montagen, Knoten und praktischen Abläufen haben hochwertige Makrofotos gestalterischen Vorrang, sofern sie fachlich korrekt sind. Minimalistische technische Zeichnungen dienen vor allem als didaktische Referenz und sollen eine bildstarke Magazinseite nicht dominieren.
