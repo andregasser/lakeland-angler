@@ -15,7 +15,7 @@ asset_ids: ["QRC-CATCH-CARE-COOK-001"]
 ## Fang bis Küche
 
 1. Art sicher bestimmen.
-2. Maß, Limit, Sonderregel und Verzehrhinweis prüfen.
+2. Mass, Limit, Sonderregel und Verzehrhinweis prüfen.
 3. Wirksam betäuben, töten und ausbluten.
 4. Sauber verpackt vollständig in Eis auf 2–4 °C kühlen.
 5. Nach Ende des Angelns hygienisch verarbeiten.

@@ -10,7 +10,7 @@
 
 Die Icons und die Montage wurden als deterministische SVG-Dateien nach `Design/16_P1_Musterset_v1.0.md` erstellt.
 
-Die Fischillustrationen wurden im eingebauten Imagegen-Modus erzeugt. Kernaussage der Prompts: anatomisch plausible adulte Zielfische in vollständiger linker Seitenansicht, arttypische Erkennungsmerkmale, natürliche Farbigkeit, weiches Tageslicht, keine Umgebung oder Beschriftung und vollständig deckende Flossen vor einem einfarbigen Chroma-Key-Hintergrund. Die Hintergründe wurden anschließend lokal entfernt; alle finalen PNG-Dateien besitzen Transparenz und wurden auf 3600 × 2400 Pixel skaliert.
+Die Fischillustrationen wurden im eingebauten Imagegen-Modus erzeugt. Kernaussage der Prompts: anatomisch plausible adulte Zielfische in vollständiger linker Seitenansicht, arttypische Erkennungsmerkmale, natürliche Farbigkeit, weiches Tageslicht, keine Umgebung oder Beschriftung und vollständig deckende Flossen vor einem einfarbigen Chroma-Key-Hintergrund. Die Hintergründe wurden anschliessend lokal entfernt; alle finalen PNG-Dateien besitzen Transparenz und wurden auf 3600 × 2400 Pixel skaliert.
 
 ## Status
 

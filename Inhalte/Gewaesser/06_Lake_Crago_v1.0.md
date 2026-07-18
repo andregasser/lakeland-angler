@@ -34,7 +34,7 @@ Kleines Fish Management Area in Lakeland, über einen Kanal mit Lake Parker verb
 
 ## Strukturen und Vegetation
 
-Der rund 54 Acres große See ist mit Lake Parker verbunden. Kanal, Uferdeckung und Übergänge zum offenen Wasser bilden die wichtigsten Suchzonen.
+Der rund 54 Acres grosse See ist mit Lake Parker verbunden. Kanal, Uferdeckung und Übergänge zum offenen Wasser bilden die wichtigsten Suchzonen.
 
 ## Besonderheiten und Gefahren
 

@@ -12,20 +12,20 @@ asset_ids: ["BAIT-JIG-SOFTBAIT-SET-001"]
 
 # Jigs und Softbaits
 
-Mit wenigen Größen deckst du Crappie, Panfish und Bass vom Freiwasser bis zur Vegetation ab.
+Mit wenigen Grössen deckst du Crappie, Panfish und Bass vom Freiwasser bis zur Vegetation ab.
 
 ## Auswahlmatrix
 
 | Köder | Geeignet für | Beste Situation | Präsentation |
 | --- | --- | --- | --- |
 | Jig 1/16–1/8 oz | Crappie | Schwarmtiefe, Vegetationslücke | langsam sinken oder driften |
-| Beetle Spin 1/8 oz | Bluegill | offene Uferkante | gleichmäßig langsam |
+| Beetle Spin 1/8 oz | Bluegill | offene Uferkante | gleichmässig langsam |
 | kleiner Curlytail | Crappie, Bluegill | Suchköder | werfen oder schleppen |
 | Softplastic Worm | Bass | Gras, Holz, Kante | Texas Rig, langsam |
 
 ## Auswahl und Anwendung
 
-So leicht wie möglich, so schwer wie nötig wählen. Weiß, Chartreuse und Pink sind für Crappie lokal belegt; Junebug und Red Shad passen zu Bass in Lakeland-Gewässern. Nach Bodenkontakt anheben, kontrolliert absinken lassen und die Schnur beobachten.
+So leicht wie möglich, so schwer wie nötig wählen. Weiss, Chartreuse und Pink sind für Crappie lokal belegt; Junebug und Red Shad passen zu Bass in Lakeland-Gewässern. Nach Bodenkontakt anheben, kontrolliert absinken lassen und die Schnur beobachten.
 
 Bleiben Kontakte aus, zuerst Wurfwinkel oder Lauftiefe ändern. Erst danach Farbe und Form wechseln.
 
@@ -37,5 +37,5 @@ Zu schnell führen. Gerade in kühlem Wasser oder nach einer Front längere Sink
 
 ## Produktionsnotizen
 
-- Offene Faktenprüfung: finale Größenstaffelung mit Ausrüstungsseite abgleichen
+- Offene Faktenprüfung: finale Grössenstaffelung mit Ausrüstungsseite abgleichen
 - Benötigte Assets: vier Köder, Sinkbewegung, Farbfelder und Fischart-Icons

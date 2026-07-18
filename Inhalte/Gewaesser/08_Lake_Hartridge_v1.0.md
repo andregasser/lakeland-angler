@@ -22,7 +22,7 @@ Gut zugänglicher Teil der Winter Haven Chain mit starker Bass- und Crappie-Basi
 
 ## Gute Angelbereiche
 
-1. **Peppergrass-Felder:** Swim Jig, Spinnerbait oder Softplastic entlang der Außenkante auf Bass führen.
+1. **Peppergrass-Felder:** Swim Jig, Spinnerbait oder Softplastic entlang der Aussenkante auf Bass führen.
 2. **Lücken in der Vegetation:** Minnow oder kleinen Jig auf Crappie absenken; in kühlen Monaten auch über Pflanzen driften.
 3. **Stege und schwere Deckung:** Bei Wärme Bass mit Texas Rig oder Swimbait langsam im Schatten suchen.
 

@@ -111,17 +111,17 @@ Diese Liste ist das verbindliche Produktionsregister für die 60-Seiten-Fassung.
 
 Der ältere Katalog war eine frühe Motivplanung. Er enthält nicht mehr benötigte Arten, allgemeine Spotkarten und eine andere ID-Systematik. Peacock Bass, Channel Catfish, Bowfin, Florida Gar und nicht zugeordnete Alt-Montagen gehören nicht zur aktuellen 60-Seiten-Fassung und werden nicht produziert, solange sie nicht erneut beschlossen und einem Inhaltsmodul zugeordnet werden.
 
-Die aktuellen fünf Fischillustrationen, acht Gewässerkarten, vier Montagen, zwölf Monatsmotive und alle Seitenkompositionen verwenden ausschließlich die kanonischen IDs dieses Registers.
+Die aktuellen fünf Fischillustrationen, acht Gewässerkarten, vier Montagen, zwölf Monatsmotive und alle Seitenkompositionen verwenden ausschliesslich die kanonischen IDs dieses Registers.
 
 ## Produktionsreihenfolge
 
-1. Iconraster, Linienstärke, Farbvarianten und Mindestgröße anhand eines kleinen P1-Musters festlegen.
+1. Iconraster, Linienstärke, Farbvarianten und Mindestgrösse anhand eines kleinen P1-Musters festlegen.
 2. Wiederverwendbare Zugangs-, Zeit-, Temperatur-, Regel- und Sicherheitssymbole produzieren.
 3. Eine Fischillustration und eine Montagezeichnung als Stil- und Detailmuster abnehmen.
 4. Restliche P1-Assets als zusammenhängende Serien erstellen.
 5. P2-Assets kapitelweise produzieren; Karten erst nach Datenprüfung.
 6. P3-Kompositionen aus den freigegebenen Einzelassets aufbauen.
-7. Jedes Asset bei 100 % und in der vorgesehenen A5-Größe visuell prüfen.
+7. Jedes Asset bei 100 % und in der vorgesehenen A5-Grösse visuell prüfen.
 
 ## Statusmodell
 

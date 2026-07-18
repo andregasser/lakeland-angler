@@ -22,7 +22,7 @@ asset_ids: ["MONTH-JUNE-001", "CHART-JUNE-RANKING-001"]
 
 ## Typische Bedingungen
 
-- **Wetter:** Heiß, feucht und zunehmend gewitteranfällig.
+- **Wetter:** Heiss, feucht und zunehmend gewitteranfällig.
 - **Wasser:** Flachwasser wird rasch warm; Schatten und Tiefe gewinnen später am Tag.
 - **Fischverhalten:** Bream bleibt aktiv, Bass verlagert sich mittags an kühlere Deckung.
 

@@ -23,7 +23,7 @@ Die einfachste Wahl für Bluegill, Redear und Tilapia – klein angeboten und pa
 | Grass Shrimp | Bluegill, Redear, Crappie | feine Präsentation | kleiner Haken unter Pose |
 | Brotflocke | Blue Tilapia | sichtbare Fische im Flachwasser | nahezu unbeschwert |
 
-## Größe und Präsentation
+## Grösse und Präsentation
 
 Köder kompakt auf Haken 6 oder 8 setzen; die Spitze bleibt frei. Unter Pose ruhig anbieten und bei fehlenden Bissen zuerst tiefer stellen. Earthworms für Redear grundnah mit möglichst wenig Gewicht führen. Brot nur so fest formen, dass es den Wurf übersteht.
 
@@ -33,9 +33,9 @@ Kühl und schattig lagern. Lebende Köder nicht in ein anderes Gewässer freiset
 
 ## Häufiger Fehler
 
-Ein zu großer Köder verdeckt die Hakenspitze. Verkleinern, sauber aufziehen und erst danach die Stelle wechseln.
+Ein zu grosser Köder verdeckt die Hakenspitze. Verkleinern, sauber aufziehen und erst danach die Stelle wechseln.
 
-> **Merksatz:** Kleine Portion, freie Hakenspitze und richtige Tiefe schlagen einen großen Köder fast immer.
+> **Merksatz:** Kleine Portion, freie Hakenspitze und richtige Tiefe schlagen einen grossen Köder fast immer.
 
 ## Produktionsnotizen
 

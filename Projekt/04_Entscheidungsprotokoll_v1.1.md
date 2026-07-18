@@ -32,7 +32,7 @@ Alle fünf Arten erhalten denselben redaktionellen Umfang, dasselbe Doppelseiten
 Begründung:
 
 - in Florida weit verbreitet
-- in den Gewässern rund um Lakeland regelmäßig zu erwarten
+- in den Gewässern rund um Lakeland regelmässig zu erwarten
 - für Urlauber und Hobbyangler besonders relevant
 - kann beim gezielten Angeln auf andere Arten als Beifang auftreten
 

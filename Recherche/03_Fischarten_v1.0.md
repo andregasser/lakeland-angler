@@ -42,7 +42,7 @@ Für alle fünf Arten werden identisch recherchiert:
 | --- | --- | --- | --- |
 | FACT-FISH-001 | Largemouth Bass bewohnt in Florida nahezu jeden Teich und See; geeignete Kunstköder umfassen Würmer, Minnow-Imitationen, Topwater-Köder, Spinnerbaits und Crankbaits. | SRC-FWC-010 | Bestätigt, allgemein |
 | FACT-FISH-002 | Bluegill und Redear Sunfish sind häufige Sunfish; Würmer, Grillen und Grass Shrimp sowie kleine Jigs, Beetle Spins und kleine Fliegen sind geeignete Köder. | SRC-FWC-010 | Bestätigt, allgemein |
-| FACT-FISH-003 | Black Crappie ist eher in größeren, tieferen Seen zu finden und nutzt tiefere Bereiche sowie Brushpile-Strukturen; kleine Minnows und Jigs sind geeignete Köder. | SRC-FWC-010 | Bestätigt, allgemein |
+| FACT-FISH-003 | Black Crappie ist eher in grösseren, tieferen Seen zu finden und nutzt tiefere Bereiche sowie Brushpile-Strukturen; kleine Minnows und Jigs sind geeignete Köder. | SRC-FWC-010 | Bestätigt, allgemein |
 | FACT-FISH-004 | Blue Tilapia ist in Central Florida weit verbreitet. FWC beschreibt Fische dort im Regelfall als Blue Tilapia; die Art ist dennoch je Zielgewässer zu bestätigen. | SRC-FWC-008 | Teilbestätigt |
 | FACT-FISH-005 | Blue Tilapia laicht laut FWC bei Wassertemperaturen über 68 °F und baut flache, kreisförmige Nester über sandigem Grund. | SRC-FWC-008 | Bestätigt, allgemein |
 

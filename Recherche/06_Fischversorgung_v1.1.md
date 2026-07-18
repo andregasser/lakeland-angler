@@ -11,7 +11,7 @@
 | Prozess | Benötigter Nachweis | Status |
 | --- | --- | --- |
 | Entscheidung zur Entnahme | Legalität, Artbestimmung, Verzehrhinweis | Offen |
-| waidgerechtes Töten | fachlich geeignete Methode je Fischgröße | Offen |
+| waidgerechtes Töten | fachlich geeignete Methode je Fischgrösse | Offen |
 | Ausbluten | Nutzen, Ablauf und Grenzen | Offen |
 | sofortiges Kühlen | Temperatur- und Zeitvorgaben | Begonnen |
 | Transport | Kühlkette und Hygiene | Begonnen |
@@ -26,7 +26,7 @@
 | FACT-CARE-001 | Für den Transport von Fisch in warmer Umgebung empfiehlt UF/IFAS eine Kühlbox mit Kühlelementen. | SRC-UF-001 | Bestätigt, Detailwerte offen |
 | FACT-CARE-002 | Bei einer sichtbaren Algenblüte sollen Filets nicht mit dem betroffenen Gewässerwasser gereinigt werden. | SRC-FDOH-003 | Bestätigt |
 | FACT-CARE-003 | Fisch und Meeresfrüchte müssen laut USDA im dicksten Bereich mindestens 145 °F beziehungsweise 62,8 °C erreichen. | SRC-USDA-001 | Bestätigt, vor Druck prüfen |
-| FACT-CARE-004 | Black Crappie darf in Gewässern mit Mindest- oder Slotmaß nicht filetiert und nicht um Kopf oder Schwanzflosse gekürzt werden, bevor der Angeltag beendet ist. | SRC-FWC-001 | Bestätigt, Sonderregeln vor Ort prüfen |
+| FACT-CARE-004 | Black Crappie darf in Gewässern mit Mindest- oder Slotmass nicht filetiert und nicht um Kopf oder Schwanzflosse gekürzt werden, bevor der Angeltag beendet ist. | SRC-FWC-001 | Bestätigt, Sonderregeln vor Ort prüfen |
 
 ## Offene kritische Punkte
 

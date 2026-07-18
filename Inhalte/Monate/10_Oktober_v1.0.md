@@ -41,7 +41,7 @@ asset_ids: ["MONTH-OCTOBER-001", "CHART-OCTOBER-RANKING-001"]
 
 Nur sommerliche Flachmuster zu fischen übersieht Fische an Übergängen und tieferer Struktur.
 
-> **Monatstipp:** Nutze den Temperaturwechsel: morgens flach beginnen und anschließend die erste Kante kontrollieren.
+> **Monatstipp:** Nutze den Temperaturwechsel: morgens flach beginnen und anschliessend die erste Kante kontrollieren.
 
 ## Produktionsnotizen
 

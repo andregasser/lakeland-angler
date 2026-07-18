@@ -21,7 +21,7 @@ Der Schwerpunkt liegt auf einem kompakten, praktisch nutzbaren Angelguide für S
 - Bluegill
 - Redear Sunfish (Shellcracker)
 
-Diese Arten erhalten den größten redaktionellen Raum und werden mit Blick auf Fang, Versorgung und Küche behandelt.
+Diese Arten erhalten den grössten redaktionellen Raum und werden mit Blick auf Fang, Versorgung und Küche behandelt.
 
 ## E-003 – Zusätzliche Fischart
 
@@ -31,7 +31,7 @@ Diese Arten erhalten den größten redaktionellen Raum und werden mit Blick auf 
 Begründung:
 
 - in Florida weit verbreitet
-- in den Gewässern rund um Lakeland regelmäßig zu erwarten
+- in den Gewässern rund um Lakeland regelmässig zu erwarten
 - für Urlauber und Hobbyangler besonders relevant
 - kann beim gezielten Angeln auf andere Arten als Beifang auftreten
 

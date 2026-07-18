@@ -19,13 +19,13 @@ In Florida benötigen Einwohner und Besucher grundsätzlich eine passende Angelb
 1. **Lizenz:** Freshwater-Lizenz oder nachweisbare Ausnahme gültig?
 2. **Gewässer:** landesweite Regeln, Fish-Management-Area- und Teilsee-Sonderregeln gelesen?
 3. **Fischart:** sicher bestimmt und legal mit der verwendeten Methode gefangen?
-4. **Entnahme:** aktuelles Maß, Tageslimit und mögliche Catch-and-Release-Vorgabe geprüft?
+4. **Entnahme:** aktuelles Mass, Tageslimit und mögliche Catch-and-Release-Vorgabe geprüft?
 5. **Verarbeitung:** Muss der Fang bis zum Ende des Angelns intakt bleiben?
 6. **Verzehr:** aktueller gewässerspezifischer Hinweis kontrolliert?
 
 ## Wichtig für diesen Guide
 
-Game Fish wie Bass, Crappie, Bluegill und Redear dürfen nur mit Pole and Line oder Rod and Reel gefangen werden. Bass darf während des Angelns nicht filetiert oder an Kopf beziehungsweise Schwanzflosse verändert werden. Für Crappie und Panfish gilt dies zusätzlich in Gewässern mit Mindest- oder Slotmaß.
+Game Fish wie Bass, Crappie, Bluegill und Redear dürfen nur mit Pole and Line oder Rod and Reel gefangen werden. Bass darf während des Angelns nicht filetiert oder an Kopf beziehungsweise Schwanzflosse verändert werden. Für Crappie und Panfish gilt dies zusätzlich in Gewässern mit Mindest- oder Slotmass.
 
 Tenoroc und andere Fish Management Areas können deutlich strengere Zugangs-, Geräte- und Entnahmeregeln besitzen. Das jeweilige Seeprofil ist nur der Einstieg; verbindlich bleibt die aktuelle FWC-Regel.
 
@@ -34,4 +34,4 @@ Tenoroc und andere Fish Management Areas können deutlich strengere Zugangs-, Ge
 ## Produktionsnotizen
 
 - Offene Faktenprüfung: vollständiger FWC-Abgleich unmittelbar vor Veröffentlichung
-- Benötigte Assets: Lizenz-, Maß-, Limit-, Sonderregel-, Verarbeitung- und Verzehr-Icon
+- Benötigte Assets: Lizenz-, Mass-, Limit-, Sonderregel-, Verarbeitung- und Verzehr-Icon

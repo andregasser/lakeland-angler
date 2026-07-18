@@ -28,7 +28,7 @@ und praktische Fangstrategien.
 -   Magazinstil
 -   viele Grafiken
 -   viele Tabellen
--   wenig Fließtext
+-   wenig Fliesstext
 
 ## Region
 
@@ -102,7 +102,7 @@ Ausrüstung - Erfolgsrezept
 -   Preise
 -   lange Gewässerbeschreibungen
 
-## Qualitätsmaßstab
+## Qualitätsmassstab
 
 Jede Seite soll wie ein professionelles Outdoor-Handbuch wirken.
 

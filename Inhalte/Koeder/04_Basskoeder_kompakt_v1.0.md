@@ -19,7 +19,7 @@ Vier Ködertypen reichen, wenn du sie nach Deckung, Tiefe und Aktivität auswäh
 | Situation | Erste Wahl | Führung |
 | --- | --- | --- |
 | Gras und Holz | Softplastic am Texas Rig | langsam, präzise |
-| offene Vegetationskante | Swim Jig oder Spinnerbait | gleichmäßig |
+| offene Vegetationskante | Swim Jig oder Spinnerbait | gleichmässig |
 | aktive Fische früh/spät | Topwater | Pausen einbauen |
 | tiefere Kante | Crankbait oder schwererer Jig | Tiefe halten |
 
@@ -37,5 +37,5 @@ Den Köder wechseln, ohne Tiefe oder Tempo zu verändern. Erst Präsentation anp
 
 ## Produktionsnotizen
 
-- Offene Faktenprüfung: Ködergrößen mit Geräteklassen abstimmen
+- Offene Faktenprüfung: Ködergrössen mit Geräteklassen abstimmen
 - Benötigte Assets: Texas Worm, Swim Jig, Topwater, Crankbait und Tiefen-/Deckungsdiagramm

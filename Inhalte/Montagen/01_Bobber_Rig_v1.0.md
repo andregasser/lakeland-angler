@@ -21,7 +21,7 @@ Die universelle Einsteigermontage für Bluegill, Redear, Tilapia und Crappie.
 
 ## Aufbau
 
-1. Pose zunächst etwa 2 Fuß oberhalb des Hakens befestigen.
+1. Pose zunächst etwa 2 Fuss oberhalb des Hakens befestigen.
 2. Kleines Split Shot wenige Zoll über dem Haken anklemmen.
 3. Haken mit Clinch- oder Palomar-Knoten anbinden und Köder kompakt aufziehen.
 
@@ -41,5 +41,5 @@ Zu schwere Bleie ziehen die Pose schräg. Gewicht reduzieren, bis sie aufrecht s
 
 ## Produktionsnotizen
 
-- Offene Faktenprüfung: Größenangaben mit finaler Illustration abgleichen
+- Offene Faktenprüfung: Grössenangaben mit finaler Illustration abgleichen
 - Benötigte Assets: nummerierte technische Montagezeichnung und Tiefenvarianten

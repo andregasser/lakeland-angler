@@ -15,7 +15,7 @@ Jede Seite muss mindestens eine konkrete Frage beantworten. Die wichtigste Antwo
 ## Produktionsgrundlagen
 
 - Format: A5 Hochformat, 148 × 210 mm
-- Zielumfang: 60 Seiten einschließlich Cover
+- Zielumfang: 60 Seiten einschliesslich Cover
 - Sprache: Deutsch mit englischen Fachbegriffen in Klammern
 - Ansprache: Du
 - maximal zwei Textspalten pro Seite
@@ -75,7 +75,7 @@ Je nach Seitentyp drei bis sechs kompakte Werte, zum Beispiel:
 
 ### Infoboxen
 
-Es werden ausschließlich die im Designsystem definierten Typen verwendet:
+Es werden ausschliesslich die im Designsystem definierten Typen verwendet:
 
 - **Tipp:** direkt umsetzbare Empfehlung
 - **Achtung:** Gefahr, Regel oder typischer Fehler
@@ -171,7 +171,7 @@ Veränderliche Zahlenwerte werden nur aufgenommen, wenn sie für den Nutzwert un
 
 ### Abnahmekriterium
 
-Die Kernaussage muss ohne Fließtext allein aus Rangfolge, Tabelle und Icons verständlich sein.
+Die Kernaussage muss ohne Fliesstext allein aus Rangfolge, Tabelle und Icons verständlich sein.
 
 ## Seitentyp D – Fischprofil
 
@@ -188,7 +188,7 @@ Dieser Seitentyp gilt ohne Abweichung für Black Crappie, Tilapia, Bluegill, Red
 - beste Monate und Tageszeiten
 - typische Standplätze
 - geeignete Gewässer
-- große Fischillustration
+- grosse Fischillustration
 - Standplatzskizze
 
 ### Doppelseite rechts – Fangen und Verwerten
@@ -216,7 +216,7 @@ Bestimmung, Fangstrategie und Versorgung sind fachlich geprüft und ohne Widersp
 - Name auf Deutsch und Englisch
 - geeignete Fischarten
 - beste Situation
-- Größe oder relevante Auswahlmerkmale
+- Grösse oder relevante Auswahlmerkmale
 - Haken beziehungsweise Montage
 - einfache Führung oder Präsentation
 - ein typischer Fehler
@@ -236,7 +236,7 @@ Zeitlose Eigenschaften stehen vor Marken oder Produktbeispielen. Verpackungen un
 - benötigte Komponenten
 - Aufbau in nummerierten Schritten
 - technische Montagezeichnung
-- relevante Größenbereiche
+- relevante Grössenbereiche
 - Anwendung am Wasser
 - häufigster Fehler
 
@@ -252,7 +252,7 @@ Die Montage muss allein anhand von Zeichnung, Komponentenliste und Schritten nac
 
 - Einsatzzweck
 - zeitlose Auswahlkriterien
-- sinnvolle Größen- oder Leistungsklasse
+- sinnvolle Grössen- oder Leistungsklasse
 - Zuordnung zu Fischarten und Methoden
 - Einsteigerempfehlung
 - optional austauschbare Produktbeispiele
@@ -328,7 +328,7 @@ Das Rezept funktioniert ohne Spezialgerät und lässt sich auf mindestens zwei H
 
 ## Seitentyp K – Quick Reference Card
 
-**Ziel:** Entscheidungen am Wasser ohne erklärenden Fließtext ermöglichen.
+**Ziel:** Entscheidungen am Wasser ohne erklärenden Fliesstext ermöglichen.
 
 ### Pflichtinhalte
 

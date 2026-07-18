@@ -90,7 +90,7 @@ transparent
 
 **Montagen:**
 
-weiß
+weiss
 
 **Karten:**
 
@@ -118,4 +118,4 @@ Vor Freigabe jeder Illustration wird geprüft:
 - stilistisch konsistent
 - druckfähig
 - ohne sichtbare KI-Artefakte
-- klar lesbar in A5-Größe
+- klar lesbar in A5-Grösse

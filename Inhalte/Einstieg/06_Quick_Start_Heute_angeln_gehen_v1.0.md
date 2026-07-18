@@ -20,9 +20,9 @@ Mittlere Spinnkombi, Haken 6 oder 8, kleine Pose, Split Shot, Würmer, Zange, Sc
 
 1. Lizenz, Fangregeln, Gewässerzugang, Wetter und Verzehrhinweise prüfen.
 2. Einen leicht zugänglichen Ufer- oder Pierbereich aus dem Seeprofil wählen.
-3. Pose etwa 2 Fuß über dem Haken befestigen; kleines Split Shot wenige Zoll darüber setzen.
+3. Pose etwa 2 Fuss über dem Haken befestigen; kleines Split Shot wenige Zoll darüber setzen.
 4. Kleine Wurmportion aufziehen und früh morgens oder spät nachmittags an Struktur auswerfen.
-5. Bleibt die Pose ruhig, zuerst tiefer stellen. Danach Wurfwinkel oder Ködergröße ändern.
+5. Bleibt die Pose ruhig, zuerst tiefer stellen. Danach Wurfwinkel oder Ködergrösse ändern.
 6. Unklaren oder nicht legal entnehmbaren Fisch sofort schonend zurücksetzen. Entnommenen Fang ohne Verzögerung versorgen und kühlen.
 
 > **Warnung:** Bei Donner, fehlender Kühlung, unsicherem Zugang oder unklaren Regeln wird nicht begonnen beziehungsweise sofort abgebrochen.

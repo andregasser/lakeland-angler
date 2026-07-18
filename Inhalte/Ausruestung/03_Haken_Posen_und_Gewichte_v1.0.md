@@ -16,7 +16,7 @@ Kleine Terminal-Tackle-Teile bestimmen, wie natürlich dein Köder sinkt und wie
 
 ## Haken
 
-Einzelhaken der Größen 6 und 8 sind eine gute Basis für Würmer, Crickets und Grass Shrimp auf Bluegill, Redear oder Tilapia. Für Crappie kann ein etwas größerer Haken um Größe 4 zum Minnow passen. Offset-Haken halten Softplastics beim Texas Rig krautfrei; ihre Größe richtet sich nach dem verwendeten Köder.
+Einzelhaken der Grössen 6 und 8 sind eine gute Basis für Würmer, Crickets und Grass Shrimp auf Bluegill, Redear oder Tilapia. Für Crappie kann ein etwas grösserer Haken um Grösse 4 zum Minnow passen. Offset-Haken halten Softplastics beim Texas Rig krautfrei; ihre Grösse richtet sich nach dem verwendeten Köder.
 
 Die Hakenspitze bleibt immer frei und scharf. Ist sie stumpf oder verbogen, wird der Haken ersetzt statt nachgebogen.
 
@@ -32,5 +32,5 @@ Split Shots beschweren Bobber Rig und feine Grundmontage. Klemm sie so leicht wi
 
 ## Produktionsnotizen
 
-- Offene Faktenprüfung: Hakengrößen mit finalen Köderillustrationen abgleichen
-- Benötigte Assets: Größenskala für Haken, feste Pose, Laufpose, Split Shot und Bullet Weight
+- Offene Faktenprüfung: Hakengrössen mit finalen Köderillustrationen abgleichen
+- Benötigte Assets: Grössenskala für Haken, feste Pose, Laufpose, Split Shot und Bullet Weight

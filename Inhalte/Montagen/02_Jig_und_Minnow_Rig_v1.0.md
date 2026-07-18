@@ -42,5 +42,5 @@ Ein schief aufgezogener Köder rotiert. Neu aufziehen und neben dem Ufer auf ger
 
 ## Produktionsnotizen
 
-- Offene Faktenprüfung: Köderfischregeln und finale Jiggrößen
+- Offene Faktenprüfung: Köderfischregeln und finale Jiggrössen
 - Benötigte Assets: zwei technische Varianten, Sinkbahn und Tiefenmarken

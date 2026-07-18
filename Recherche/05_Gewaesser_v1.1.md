@@ -45,9 +45,9 @@ Operative Angaben wie Öffnungszeiten, Gebühren und Telefonnummern werden nicht
 
 | Fakten-ID | Aussage | Quelle | Stabilität | Status |
 | --- | --- | --- | --- | --- |
-| FACT-LAKE-008 | Lake Parker ist ein großes Fish Management Area in North Lakeland und über einen Kanal mit Lake Crago verbunden. | SRC-FWC-019 | B/C | Bestätigt |
+| FACT-LAKE-008 | Lake Parker ist ein grosses Fish Management Area in North Lakeland und über einen Kanal mit Lake Crago verbunden. | SRC-FWC-019 | B/C | Bestätigt |
 | FACT-LAKE-009 | FWC bestätigt Florida/Largemouth Bass, Bluegill, Redear Sunfish und Black Crappie als relevante Arten. | SRC-FWC-019 | B | Bestätigt |
-| FACT-LAKE-010 | Kissimmee Grass, Bulrush und Cattail prägen die Vegetation; die maximale Tiefe wird mit 10 Fuß angegeben. | SRC-FWC-019 | B | Bestätigt |
+| FACT-LAKE-010 | Kissimmee Grass, Bulrush und Cattail prägen die Vegetation; die maximale Tiefe wird mit 10 Fuss angegeben. | SRC-FWC-019 | B | Bestätigt |
 | FACT-LAKE-011 | Uferangelmöglichkeiten bestehen an Parkbereichen; mehrere Bootsrampen sind vorhanden. Operative Zugänge sind vor Nutzung aktuell zu prüfen. | SRC-FWC-019 | C | Bestätigt, zeitkritisch |
 | FACT-LAKE-012 | Bluegill und Redear werden an Uferstruktur mit Crickets und Red Wigglers gefangen. Crappie wird über offenem Wasser mit Minnows, kleinen Spinners oder Hal Flies befischt. | SRC-FWC-019 | B/C | Bestätigt als FWC-Empfehlung |
 | FACT-LAKE-013 | Bass-Strukturen umfassen Cattails, Bulrush, untergetauchte Vegetation sowie den tieferen „Hourglass“-Bereich im Nordosten. | SRC-FWC-019 | B/C | Bestätigt als FWC-Empfehlung |
@@ -57,7 +57,7 @@ Operative Angaben wie Öffnungszeiten, Gebühren und Telefonnummern werden nicht
 | Fakten-ID | Aussage | Quelle | Stabilität | Status |
 | --- | --- | --- | --- | --- |
 | FACT-LAKE-014 | Lake Hollingsworth ist laut Polk County Water Atlas ein öffentliches Gewässer mit ungefähr 354 Acres Fläche. | SRC-USF-001 | B/C | Bestätigt |
-| FACT-LAKE-015 | Der Atlas nennt ungefähr 4 Fuß mittlere und 14 Fuß maximale Tiefe. | SRC-USF-001 | B/C | Bestätigt, nicht als Navigation verwenden |
+| FACT-LAKE-015 | Der Atlas nennt ungefähr 4 Fuss mittlere und 14 Fuss maximale Tiefe. | SRC-USF-001 | B/C | Bestätigt, nicht als Navigation verwenden |
 | FACT-LAKE-016 | Der Atlas führt fortlaufende Wasserqualitäts- und hydrologische Messstellen. Aktuelle Zustände müssen vor dem Angeln separat geprüft werden. | SRC-USF-001 | C/D | Bestätigt |
 | FACT-LAKE-019 | Im Mai 2026 untersuchte die City of Lakeland ein Fischsterben. Als mögliche Mitursachen wurden Cyanobakterien, niedriger nächtlicher Sauerstoff, Laichstress, Niederschlag und Temperatur genannt. | SRC-LAKELAND-001; SRC-LAKELAND-002 | D | Bestätigt als Ereignis, nicht verallgemeinern |
 
@@ -75,14 +75,14 @@ Operative Angaben wie Öffnungszeiten, Gebühren und Telefonnummern werden nicht
 | FACT-LAKE-020 | Lake Hancock umfasst mehr als 4.500 Acres und liegt im Quellgebiet des Peace River. | SRC-SWFWMD-002 | B | Bestätigt |
 | FACT-LAKE-021 | Am Circle B Bar Reserve besteht Zugang zum Seeufer beziehungsweise zu einem Pier; Alligatoren sind dort ausdrücklich dokumentiert. | SRC-SWFWMD-001 | B/C | Bestätigt, konkrete Angelzugänglichkeit weiter prüfen |
 | FACT-LAKE-022 | Niedrige Sauerstoffwerte können in Lake Hancock Fischsterben verursachen. Wasserstände und Wasserqualität unterliegen aktivem Management. | SRC-SWFWMD-002 | C/D | Bestätigt |
-| FACT-LAKE-023 | Im Frühjahr 2026 führten extreme Trockenheit, niedrige Wasserstände und erwartete Sauerstoffprobleme zu einer akuten Managementmaßnahme. | SRC-SWFWMD-003 | D | Bestätigt als Ereignis, nicht verallgemeinern |
+| FACT-LAKE-023 | Im Frühjahr 2026 führten extreme Trockenheit, niedrige Wasserstände und erwartete Sauerstoffprobleme zu einer akuten Managementmassnahme. | SRC-SWFWMD-003 | D | Bestätigt als Ereignis, nicht verallgemeinern |
 
 ## Redaktionelle Eignungsprüfung
 
-- **Lake Hollingsworth:** Nicht allein wegen eines zeitlich begrenzten Fischsterbens ausschließen. Vor Aufnahme müssen Zielfischbestand, legaler Angelzugang und langfristige Eignung bestätigt werden.
+- **Lake Hollingsworth:** Nicht allein wegen eines zeitlich begrenzten Fischsterbens ausschliessen. Vor Aufnahme müssen Zielfischbestand, legaler Angelzugang und langfristige Eignung bestätigt werden.
 - **Lake Hancock:** Nicht als verlässlichen Catch-&-Cook-Spot empfehlen, bevor Fischbestand, Verzehrhinweise, praktischer Angelzugang und wiederkehrende Sauerstoffprobleme bewertet sind.
 - Wenn ein See keine belastbare Catch-&-Cook-Empfehlung erlaubt, wird er vor der Inhaltsproduktion ersetzt statt mit schwachen Aussagen gefüllt.
 
 ## Validierungswarnung
 
-Die bloße Existenz eines öffentlichen Wasseratlas-Eintrags bestätigt weder einen öffentlichen Angelzugang noch das Vorkommen einer Zielfischart. Solche Angaben bleiben offen, bis eine zuständige Quelle sie ausdrücklich belegt.
+Die blosse Existenz eines öffentlichen Wasseratlas-Eintrags bestätigt weder einen öffentlichen Angelzugang noch das Vorkommen einer Zielfischart. Solche Angaben bleiben offen, bis eine zuständige Quelle sie ausdrücklich belegt.

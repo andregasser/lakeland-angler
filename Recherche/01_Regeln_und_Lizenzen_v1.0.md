@@ -11,15 +11,15 @@
 
 | Fakten-ID | Aussage | Geltungsbereich | Quelle | Stabilität | Status |
 | --- | --- | --- | --- | --- | --- |
-| FACT-REG-001 | Besucher und Einwohner benötigen grundsätzlich eine Florida-Süßwasser-Angellizenz, wenn sie Süßwasserfische fangen oder zu fangen versuchen, sofern keine ausdrückliche Ausnahme greift. Catch & Release fällt ebenfalls unter die Lizenzpflicht. | Florida | SRC-FWC-003 | C | Bestätigt |
-| FACT-REG-002 | Eine Süßwasserlizenz gilt für den Fang beziehungsweise Fangversuch von heimischen und nichtheimischen Süßwasserfischen. | Florida | SRC-FWC-004 | C | Bestätigt |
-| FACT-REG-003 | Für Florida beziehungsweise Largemouth Bass gilt landesweit ein Tageslimit von fünf Black Bass insgesamt; nur einer darf eine Gesamtlänge von 16 Zoll oder mehr haben. Für Florida/Largemouth Bass besteht landesweit kein Mindestmaß. | Florida, sofern keine Sonderregel gilt | SRC-FWC-001 | C | Bestätigt |
+| FACT-REG-001 | Besucher und Einwohner benötigen grundsätzlich eine Florida-Süsswasser-Angellizenz, wenn sie Süsswasserfische fangen oder zu fangen versuchen, sofern keine ausdrückliche Ausnahme greift. Catch & Release fällt ebenfalls unter die Lizenzpflicht. | Florida | SRC-FWC-003 | C | Bestätigt |
+| FACT-REG-002 | Eine Süsswasserlizenz gilt für den Fang beziehungsweise Fangversuch von heimischen und nichtheimischen Süsswasserfischen. | Florida | SRC-FWC-004 | C | Bestätigt |
+| FACT-REG-003 | Für Florida beziehungsweise Largemouth Bass gilt landesweit ein Tageslimit von fünf Black Bass insgesamt; nur einer darf eine Gesamtlänge von 16 Zoll oder mehr haben. Für Florida/Largemouth Bass besteht landesweit kein Mindestmass. | Florida, sofern keine Sonderregel gilt | SRC-FWC-001 | C | Bestätigt |
 | FACT-REG-004 | Für Black Crappie gilt landesweit ein Tageslimit von 25 Fischen. | Florida, sofern keine Sonderregel gilt | SRC-FWC-001 | C | Bestätigt |
 | FACT-REG-005 | Für die zusammengefasste Panfish-Gruppe gilt landesweit ein Tageslimit von 50 Fischen. Bluegill und Redear Sunfish gehören zu dieser Gruppe. | Florida, sofern keine Sonderregel gilt | SRC-FWC-001 | C | Bestätigt |
 | FACT-REG-006 | Black Bass, Black Crappie, Bluegill und Redear Sunfish sind Freshwater Game Fish. Game Fish dürfen mit Pole and Line beziehungsweise Rod and Reel gefangen werden. | Florida | SRC-FWC-002 | C | Bestätigt |
 | FACT-REG-007 | Sonderregeln einzelner Seen, Flüsse und Fish Management Areas haben Vorrang vor den allgemeinen landesweiten Regeln. | Florida | SRC-FWC-001; SRC-FWC-005 | C | Bestätigt |
 | FACT-REG-008 | In Tenoroc gelten zugangsgesteuerte und gewässerspezifische Sonderregeln. Soweit nicht anders angegeben, müssen Florida/Largemouth Bass dort sofort zurückgesetzt werden. | Tenoroc | SRC-FWC-007 | C | Bestätigt, Detailprüfung offen |
-| FACT-REG-009 | Blue Tilapia ist in Central Florida die voraussichtlich relevante Tilapia-Art; das FWC beschreibt sie dort als weit verbreitet und ohne Fang- oder Größenlimit. | Central Florida | SRC-FWC-008 | C | Teilbestätigt |
+| FACT-REG-009 | Blue Tilapia ist in Central Florida die voraussichtlich relevante Tilapia-Art; das FWC beschreibt sie dort als weit verbreitet und ohne Fang- oder Grössenlimit. | Central Florida | SRC-FWC-008 | C | Teilbestätigt |
 | FACT-REG-010 | Die rechtliche Behandlung lebender Tilapia ist artspezifisch. Spotted Tilapia darf ohne Sondergenehmigung nicht lebend besessen oder transportiert werden; Blue Tilapia wird von diesem speziellen Hinweis ausgenommen. | Florida | SRC-FWC-009 | C | Bestätigt |
 | FACT-REG-011 | Der Besitz von mehr als zwei Tageslimits an Freshwater Game Fish je lizenzierter Person ist ohne kommerzielle Lizenz unzulässig. | Florida | SRC-FWC-001 | C | Bestätigt |
 

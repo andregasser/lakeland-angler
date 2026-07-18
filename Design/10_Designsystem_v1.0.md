@@ -41,11 +41,11 @@ Nicht wie:
 
 ## Seitenraster
 
-- Außenrand großzügig
+- Aussenrand grosszügig
 - Innenrand für Bindung optimiert
 - Einheitliches Baseline-Grid
 - Maximal zwei Spalten pro Seite
-- Genügend Weißraum
+- Genügend Weissraum
 
 ---
 
@@ -53,7 +53,7 @@ Nicht wie:
 
 ### Überschrift 1
 
-- groß
+- gross
 - fett
 - klar
 - maximal zwei Zeilen
@@ -61,9 +61,9 @@ Nicht wie:
 ### Überschrift 2
 
 - deutlich kleiner
-- klar vom Fließtext getrennt
+- klar vom Fliesstext getrennt
 
-### Fließtext
+### Fliesstext
 
 - sehr gut lesbar
 - kurze Absätze
@@ -124,7 +124,7 @@ Alle Fischarten werden:
 
 - freigestellt
 - Seitenansicht
-- identischer Maßstab
+- identischer Massstab
 - identischer Hintergrund
 - gleiche Lichtquelle
 
@@ -215,7 +215,7 @@ Hohe Lesbarkeit.
 Alle Karten zeigen:
 
 - Norden
-- Maßstab
+- Massstab
 - Legende
 - einheitliche Farben
 - identische Symbole

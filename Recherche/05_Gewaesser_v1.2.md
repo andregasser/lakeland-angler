@@ -47,9 +47,9 @@ Operative Angaben wie Öffnungszeiten, Gebühren und Telefonnummern werden nicht
 
 | Fakten-ID | Aussage | Quelle | Stabilität | Status |
 | --- | --- | --- | --- | --- |
-| FACT-LAKE-008 | Lake Parker ist ein großes Fish Management Area in North Lakeland und über einen Kanal mit Lake Crago verbunden. | SRC-FWC-019 | B/C | Bestätigt |
+| FACT-LAKE-008 | Lake Parker ist ein grosses Fish Management Area in North Lakeland und über einen Kanal mit Lake Crago verbunden. | SRC-FWC-019 | B/C | Bestätigt |
 | FACT-LAKE-009 | FWC bestätigt Florida/Largemouth Bass, Bluegill, Redear Sunfish und Black Crappie als relevante Arten. | SRC-FWC-019 | B | Bestätigt |
-| FACT-LAKE-010 | Kissimmee Grass, Bulrush und Cattail prägen die Vegetation; die maximale Tiefe wird mit 10 Fuß angegeben. | SRC-FWC-019 | B | Bestätigt |
+| FACT-LAKE-010 | Kissimmee Grass, Bulrush und Cattail prägen die Vegetation; die maximale Tiefe wird mit 10 Fuss angegeben. | SRC-FWC-019 | B | Bestätigt |
 | FACT-LAKE-011 | Uferangelmöglichkeiten bestehen an Parkbereichen; mehrere Bootsrampen sind vorhanden. Operative Zugänge sind vor Nutzung aktuell zu prüfen. | SRC-FWC-019 | C | Bestätigt, zeitkritisch |
 | FACT-LAKE-012 | Bluegill und Redear werden an Uferstruktur mit Crickets und Red Wigglers gefangen. Crappie wird über offenem Wasser mit Minnows, kleinen Spinners oder Hal Flies befischt. | SRC-FWC-019 | B/C | Bestätigt als FWC-Empfehlung |
 | FACT-LAKE-013 | Bass-Strukturen umfassen Cattails, Bulrush, untergetauchte Vegetation sowie den tieferen „Hourglass“-Bereich im Nordosten. | SRC-FWC-019 | B/C | Bestätigt als FWC-Empfehlung |
@@ -59,7 +59,7 @@ Operative Angaben wie Öffnungszeiten, Gebühren und Telefonnummern werden nicht
 | Fakten-ID | Aussage | Quelle | Stabilität | Status |
 | --- | --- | --- | --- | --- |
 | FACT-LAKE-014 | Lake Hollingsworth ist laut Polk County Water Atlas ein öffentliches Gewässer mit ungefähr 354 Acres Fläche. | SRC-USF-001 | B/C | Bestätigt |
-| FACT-LAKE-015 | Der Atlas nennt ungefähr 4 Fuß mittlere und 14 Fuß maximale Tiefe. | SRC-USF-001 | B/C | Bestätigt, nicht als Navigation verwenden |
+| FACT-LAKE-015 | Der Atlas nennt ungefähr 4 Fuss mittlere und 14 Fuss maximale Tiefe. | SRC-USF-001 | B/C | Bestätigt, nicht als Navigation verwenden |
 | FACT-LAKE-016 | Der Atlas führt fortlaufende Wasserqualitäts- und hydrologische Messstellen. Aktuelle Zustände müssen vor dem Angeln separat geprüft werden. | SRC-USF-001 | C/D | Bestätigt |
 | FACT-LAKE-019 | Im Mai 2026 untersuchte die City of Lakeland ein Fischsterben. Als mögliche Mitursachen wurden Cyanobakterien, niedriger nächtlicher Sauerstoff, Laichstress, Niederschlag und Temperatur genannt. | SRC-LAKELAND-001; SRC-LAKELAND-002 | D | Bestätigt als Ereignis, nicht verallgemeinern |
 
@@ -77,7 +77,7 @@ Operative Angaben wie Öffnungszeiten, Gebühren und Telefonnummern werden nicht
 | FACT-LAKE-020 | Lake Hancock umfasst mehr als 4.500 Acres und liegt im Quellgebiet des Peace River. | SRC-SWFWMD-002 | B | Bestätigt |
 | FACT-LAKE-021 | Am Circle B Bar Reserve besteht Zugang zum Seeufer beziehungsweise zu einem Pier; Alligatoren sind dort ausdrücklich dokumentiert. | SRC-SWFWMD-001 | B/C | Bestätigt, konkrete Angelzugänglichkeit weiter prüfen |
 | FACT-LAKE-022 | Niedrige Sauerstoffwerte können in Lake Hancock Fischsterben verursachen. Wasserstände und Wasserqualität unterliegen aktivem Management. | SRC-SWFWMD-002 | C/D | Bestätigt |
-| FACT-LAKE-023 | Im Frühjahr 2026 führten extreme Trockenheit, niedrige Wasserstände und erwartete Sauerstoffprobleme zu einer akuten Managementmaßnahme. | SRC-SWFWMD-003 | D | Bestätigt als Ereignis, nicht verallgemeinern |
+| FACT-LAKE-023 | Im Frühjahr 2026 führten extreme Trockenheit, niedrige Wasserstände und erwartete Sauerstoffprobleme zu einer akuten Managementmassnahme. | SRC-SWFWMD-003 | D | Bestätigt als Ereignis, nicht verallgemeinern |
 
 ## Redaktionelle Eignungsprüfung
 
@@ -87,7 +87,7 @@ Operative Angaben wie Öffnungszeiten, Gebühren und Telefonnummern werden nicht
 
 ## Validierungswarnung
 
-Die bloße Existenz eines öffentlichen Wasseratlas-Eintrags bestätigt weder einen öffentlichen Angelzugang noch das Vorkommen einer Zielfischart. Solche Angaben bleiben offen, bis eine zuständige Quelle sie ausdrücklich belegt.
+Die blosse Existenz eines öffentlichen Wasseratlas-Eintrags bestätigt weder einen öffentlichen Angelzugang noch das Vorkommen einer Zielfischart. Solche Angaben bleiben offen, bis eine zuständige Quelle sie ausdrücklich belegt.
 
 ## Banana Lake – bestätigte Grundlagen
 
@@ -124,8 +124,8 @@ Lake Crago und Lake Hartridge sind als Ersatz aufgenommen. Lake Howard und Lake 
 | Fakten-ID | Aussage | Quelle | Stabilität | Status |
 | --- | --- | --- | --- | --- |
 | FACT-LAKE-027 | Lake Crago liegt in Lakeland, ist über einen Kanal mit Lake Parker verbunden und bietet laut FWC gutes Bassangeln, besonders im Winter und Frühjahr. | SRC-FWC-019 | B/C | Bestätigt |
-| FACT-LAKE-028 | Lake Crago ist ein 54 Acres großes Fish Management Area und offiziell zum Angeln geöffnet. | SRC-FWC-020 | C | Bestätigt, vor Druck prüfen |
-| FACT-LAKE-029 | Für Florida/Largemouth Bass und Crappie gelten dort laut FWC die landesweiten Größen- und Fanglimits. Boote sind auf Idle Speed/No Wake beschränkt. | SRC-FWC-020 | C | Bestätigt, vor Druck prüfen |
+| FACT-LAKE-028 | Lake Crago ist ein 54 Acres grosses Fish Management Area und offiziell zum Angeln geöffnet. | SRC-FWC-020 | C | Bestätigt, vor Druck prüfen |
+| FACT-LAKE-029 | Für Florida/Largemouth Bass und Crappie gelten dort laut FWC die landesweiten Grössen- und Fanglimits. Boote sind auf Idle Speed/No Wake beschränkt. | SRC-FWC-020 | C | Bestätigt, vor Druck prüfen |
 | FACT-LAKE-030 | Lake Crago besitzt keinen eigenen Eintrag in der geprüften Florida-DOH-Verzehrtabelle. | SRC-FDOH-004 | C | Bestätigt als fehlender Eintrag |
 
 **Bewertung:** Geeigneter lokaler Ersatz für Lake Hollingsworth. Die Catch-&-Cook-Seite muss für nicht gelistete Gewässer auf die allgemeine DOH-Vorsichtsregel verweisen.

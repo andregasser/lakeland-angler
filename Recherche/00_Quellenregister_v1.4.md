@@ -10,16 +10,16 @@
 
 | Quellen-ID | Herausgeber | Thema | Quelle | Abruf | Stabilität |
 | --- | --- | --- | --- | --- | --- |
-| SRC-FWC-001 | Florida Fish and Wildlife Conservation Commission | landesweite Fang- und Größenlimits | [General Statewide Bag and Length Limits](https://myfwc.com/fishing/freshwater/regulations/general/) | 2026-07-17 | C |
+| SRC-FWC-001 | Florida Fish and Wildlife Conservation Commission | landesweite Fang- und Grössenlimits | [General Statewide Bag and Length Limits](https://myfwc.com/fishing/freshwater/regulations/general/) | 2026-07-17 | C |
 | SRC-FWC-002 | Florida Fish and Wildlife Conservation Commission | Fangmethoden und Fischkategorien | [Methods of Taking Freshwater Fish](https://myfwc.com/fishing/freshwater/regulations/taking-fish/) | 2026-07-17 | C |
 | SRC-FWC-003 | Florida Fish and Wildlife Conservation Commission | Lizenzpflicht und Ausnahmen | [Do I need a license or permit?](https://myfwc.com/license/recreational/do-i-need-one/) | 2026-07-17 | C |
-| SRC-FWC-004 | Florida Fish and Wildlife Conservation Commission | Süßwasserlizenzen | [Freshwater Recreational Licenses & Permits](https://myfwc.com/license/recreational/freshwater-fishing/) | 2026-07-17 | C |
+| SRC-FWC-004 | Florida Fish and Wildlife Conservation Commission | Süsswasserlizenzen | [Freshwater Recreational Licenses & Permits](https://myfwc.com/license/recreational/freshwater-fishing/) | 2026-07-17 | C |
 | SRC-FWC-005 | Florida Fish and Wildlife Conservation Commission | Fish Management Areas | [Fish Management Areas](https://myfwc.com/fishing/freshwater/regulations/fish-management-areas/) | 2026-07-17 | C |
 | SRC-FWC-006 | Florida Fish and Wildlife Conservation Commission | Tenoroc | [Tenoroc Fishing Forecast](https://myfwc.com/fishing/freshwater/sites-forecasts/sw/tenoroc/) | 2026-07-17 | C |
 | SRC-FWC-007 | Florida Fish and Wildlife Conservation Commission | Tenoroc Verwaltung und Sonderregeln | [Tenoroc Public Use Area](https://myfwc.com/recreation/lead/tenoroc/) | 2026-07-17 | C |
 | SRC-FWC-008 | Florida Fish and Wildlife Conservation Commission | Blue Tilapia | [Blue Tilapia](https://myfwc.com/wildlifehabitats/profiles/freshwater/blue-tilapia/) | 2026-07-17 | B/C |
 | SRC-FWC-009 | Florida Fish and Wildlife Conservation Commission | Spotted Tilapia | [Spotted Tilapia](https://myfwc.com/wildlifehabitats/profiles/freshwater/spotted-tilapia/) | 2026-07-17 | B/C |
-| SRC-FWC-010 | Florida Fish and Wildlife Conservation Commission | allgemeine Süßwasserhabitate und Angelmethoden | [Freshwater Fisheries Habitat](https://myfwc.com/wildlifehabitats/habitat/freshwater/) | 2026-07-17 | B |
+| SRC-FWC-010 | Florida Fish and Wildlife Conservation Commission | allgemeine Süsswasserhabitate und Angelmethoden | [Freshwater Fisheries Habitat](https://myfwc.com/wildlifehabitats/habitat/freshwater/) | 2026-07-17 | B |
 | SRC-FWC-011 | Florida Fish and Wildlife Conservation Commission | Alligatorsicherheit | [Living with Alligators and Crocodiles](https://myfwc.com/conservation/you-conserve/wildlife/alligators/) | 2026-07-17 | B/C |
 | SRC-FWC-012 | Florida Fish and Wildlife Conservation Commission | Schlangensicherheit | [Living with Snakes](https://myfwc.com/conservation/you-conserve/wildlife/snakes/) | 2026-07-17 | B |
 | SRC-FWC-013 | Florida Fish and Wildlife Conservation Commission | Saddle Creek | [Saddle Creek Park](https://myfwc.com/fishing/freshwater/sites-forecasts/sw/saddle-creek-park/) | 2026-07-17 | C |
@@ -44,7 +44,7 @@
 | SRC-FWC-020 | Florida Fish and Wildlife Conservation Commission | Lake Crago Regeln und Zugang | [Fish Management Areas](https://myfwc.com/fishing/freshwater/regulations/fish-management-areas/) | 2026-07-17 | C |
 | SRC-FWC-021 | Florida Fish and Wildlife Conservation Commission | Winter Haven Chain, Lake Hartridge und Lake Shipp | [Winter Haven Chain of Lakes](https://myfwc.com/fishing/freshwater/sites-forecasts/sw/winter-haven-chain-of-lakes/) | 2026-07-17 | B/C |
 | SRC-FWC-022 | Florida Fish and Wildlife Conservation Commission | Arten und Methoden der Winter Haven Chain | [Crappie Top Spots](https://myfwc.com/fishing/freshwater/sites-forecasts/crappie/) | 2026-07-17 | B/C |
-| SRC-FWC-023 | Florida Fish and Wildlife Conservation Commission | Süßwasserregeln 2026–2027 und amtliche Rechtsquellen | [Freshwater Fishing Regulations](https://myfwc.com/fishing/freshwater/regulations/) | 2026-07-17 | C |
+| SRC-FWC-023 | Florida Fish and Wildlife Conservation Commission | Süsswasserregeln 2026–2027 und amtliche Rechtsquellen | [Freshwater Fishing Regulations](https://myfwc.com/fishing/freshwater/regulations/) | 2026-07-17 | C |
 | SRC-FWC-024 | Florida Fish and Wildlife Conservation Commission | Bass-Fangzeiten und Köderführung | [Black Bass Fishing](https://myfwc.com/fishing/freshwater/sites-forecasts/black-bass/) | 2026-07-17 | B/C |
 | SRC-AUBURNDALE-001 | City of Auburndale | Lake Ariana Park | [Lake Ariana Park](https://auburndalefl.com/lake-ariana-park-2/) | 2026-07-17 | C |
 | SRC-USF-004 | University of South Florida Water Institute und Polk County | Lake Ariana Gewässerdaten | [Lake Ariana](https://polk.wateratlas.usf.edu/waterbodies/lakes/160450/lake-ariana) | 2026-07-17 | B/C |

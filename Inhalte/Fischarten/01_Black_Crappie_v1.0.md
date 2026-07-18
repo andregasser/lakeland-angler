@@ -33,22 +33,22 @@ asset_ids:
 
 | Beste Monate | Beste Zeit | Hauptköder | Kücheneignung |
 | --- | --- | --- | --- |
-| Winter bis Frühjahr | Morgendämmerung und Abenddämmerung; nachts möglich | kleiner Minnow oder heller Jig | sehr gut; mildes, weißes Fleisch |
+| Winter bis Frühjahr | Morgendämmerung und Abenddämmerung; nachts möglich | kleiner Minnow oder heller Jig | sehr gut; mildes, weisses Fleisch |
 
 ## Erkennen
 
 - Hoher, seitlich abgeflachter Körper
-- Dunkle, unregelmäßige Sprenkel auf Körper und Flossen
+- Dunkle, unregelmässige Sprenkel auf Körper und Flossen
 - Rücken- und Afterflosse wirken annähernd symmetrisch
 
-**Verwechslung:** Der White Crappie trägt eher senkrechte dunkle Bänder. Beim Black Crappie ist die Zeichnung unregelmäßig gesprenkelt.
+**Verwechslung:** Der White Crappie trägt eher senkrechte dunkle Bänder. Beim Black Crappie ist die Zeichnung unregelmässig gesprenkelt.
 
 ## Finden
 
 - **Standplätze:** Freiwasser, tiefere Löcher, versunkenes Holz und Brushpiles
 - **Tiefe:** Suche systematisch verschiedene Tiefen ab; ein Schwarm steht meist auf einem ähnlichen Niveau.
 - **Geeignete Seen:** Lake Parker, Saddle Creek, Lake Hartridge und Tenoroc nach Prüfung des konkreten Teilsees
-- **Saisonales Verhalten:** Im Winter und Frühjahr ist die Fischerei am stärksten. Von Februar bis April ziehen Crappies zum Laichen in etwa 3–8 Fuß tiefes Wasser; größere Fische können tiefer bleiben. Plane bevorzugt die erste Stunde um Sonnenaufgang oder die letzte Stunde vor Einbruch der Dunkelheit ein. Die richtige Schwarmtiefe bleibt entscheidend.
+- **Saisonales Verhalten:** Im Winter und Frühjahr ist die Fischerei am stärksten. Von Februar bis April ziehen Crappies zum Laichen in etwa 3–8 Fuss tiefes Wasser; grössere Fische können tiefer bleiben. Plane bevorzugt die erste Stunde um Sonnenaufgang oder die letzte Stunde vor Einbruch der Dunkelheit ein. Die richtige Schwarmtiefe bleibt entscheidend.
 
 ## Fangen
 
@@ -59,14 +59,14 @@ asset_ids:
 ### Köder und Montage
 
 - **Beste Köder:** kleine Minnows, Grass Shrimp sowie helle Jigs von 1/16 bis 1/8 oz
-- **Montage:** Pose, kleiner Split Shot und Haken Größe 4; alternativ ein einzelner kleiner Jig
-- **Präsentation:** langsam driften, vertikal anbieten oder über Freiwasser schleppen; Pink, Weiß und Chartreuse sind am Lake Parker amtlich empfohlene Farben
+- **Montage:** Pose, kleiner Split Shot und Haken Grösse 4; alternativ ein einzelner kleiner Jig
+- **Präsentation:** langsam driften, vertikal anbieten oder über Freiwasser schleppen; Pink, Weiss und Chartreuse sind am Lake Parker amtlich empfohlene Farben
 
 ### Ausrüstung
 
 - **Rute/Rolle:** leichte Spinnrute mit kleiner Stationärrolle
 - **Schnur:** dünne, gut kontrollierbare Schnur passend zum kleinen Köder
-- **Haken:** Größe 4 für die Posenmontage
+- **Haken:** Grösse 4 für die Posenmontage
 
 ## Häufige Fehler
 
@@ -75,8 +75,8 @@ asset_ids:
 
 ## Nach dem Fang
 
-- **Versorgung:** Art, lokale Entnahmeregel und aktuellen Verzehrhinweis prüfen. Entnommenen Fisch sofort kalt halten. Wo ein Mindest- oder Slotmaß gilt, bleibt er bis zum Ende des Angeltags intakt.
-- **Küche:** Das milde, weiße Fleisch eignet sich besonders für Pfanne, Tacos und knusprige Filetstücke. Im dicksten Bereich auf mindestens 63 °C garen.
+- **Versorgung:** Art, lokale Entnahmeregel und aktuellen Verzehrhinweis prüfen. Entnommenen Fisch sofort kalt halten. Wo ein Mindest- oder Slotmass gilt, bleibt er bis zum Ende des Angeltags intakt.
+- **Küche:** Das milde, weisse Fleisch eignet sich besonders für Pfanne, Tacos und knusprige Filetstücke. Im dicksten Bereich auf mindestens 63 °C garen.
 - **Erfolgsrezept:** Fisch aus der Pfanne, Seite 55
 
 > **Merksatz:** Finde zuerst die Tiefe – nach dem ersten Biss bleibt der Schwarm oft auf demselben Niveau.
@@ -92,5 +92,5 @@ asset_ids:
 ## Produktionsnotizen
 
 - Offene Faktenprüfung: Schnurklasse, Geschmacksbeschreibung und lokale Regeln unmittelbar vor Veröffentlichung
-- Benötigte Assets: große Fischillustration, Tiefen-/Schwarmskizze, Saison-, Köder-, Kühl- und Küchen-Icons
+- Benötigte Assets: grosse Fischillustration, Tiefen-/Schwarmskizze, Saison-, Köder-, Kühl- und Küchen-Icons
 - Layoutprüfung: sichtbarer Rohtext muss innerhalb des Budgets von 350–500 Wörtern bleiben

@@ -19,10 +19,10 @@ Eine Spinnkombination ist unkompliziert, wirft leichte Köder gut und deckt fast
 | Kombination | Einsatz | Stärke |
 | --- | --- | --- |
 | leicht bis ultraleicht | Bluegill, Redear, Crappie | feine Köder und sensible Bisserkennung |
-| mittel | Tilapia, größere Crappie, leichte Bassköder | vielseitige Hauptkombination |
+| mittel | Tilapia, grössere Crappie, leichte Bassköder | vielseitige Hauptkombination |
 | mittelstark bis kräftig | Largemouth Bass in dichter Vegetation | mehr Kontrolle an Kraut und Holz |
 
-Für den Einstieg reicht meist eine mittlere Spinnrute. Wer gezielt kleine Naturköder und Jigs fischt, ergänzt später eine leichte Kombination. Die kräftige Bassrute ist sinnvoll, wenn schwere Köder oder dichte Deckung regelmäßig zum Einsatz kommen.
+Für den Einstieg reicht meist eine mittlere Spinnrute. Wer gezielt kleine Naturköder und Jigs fischt, ergänzt später eine leichte Kombination. Die kräftige Bassrute ist sinnvoll, wenn schwere Köder oder dichte Deckung regelmässig zum Einsatz kommen.
 
 ## Schnur abstimmen
 

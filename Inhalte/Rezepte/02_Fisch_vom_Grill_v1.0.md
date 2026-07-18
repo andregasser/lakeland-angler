@@ -30,10 +30,10 @@ Ein Folienpaket schützt zarte Filets vor dem Zerfallen und funktioniert besonde
 
 ## Zubereitung
 
-1. Grill auf mittlere Hitze vorheizen und eine ausreichend große, doppelte Lage Folie vorbereiten.
+1. Grill auf mittlere Hitze vorheizen und eine ausreichend grosse, doppelte Lage Folie vorbereiten.
 2. Filets trocken tupfen, dünn ölen und mit Kräutern, Salz und Pfeffer würzen.
-3. Filets mit Zitronenscheiben auf die Folie legen und das Paket dicht, aber mit etwas Luftraum verschließen.
-4. Paket bei indirekter oder mäßiger Hitze 8 Minuten garen; anschließend vorsichtig vom Gesicht weg öffnen.
+3. Filets mit Zitronenscheiben auf die Folie legen und das Paket dicht, aber mit etwas Luftraum verschliessen.
+4. Paket bei indirekter oder mässiger Hitze 8 Minuten garen; anschliessend vorsichtig vom Gesicht weg öffnen.
 5. Im dicksten Filet messen und bei Bedarf weitergaren, bis mindestens 63 °C erreicht sind.
 6. Mit einer sauberen Zange auf saubere Teller setzen und sofort servieren.
 

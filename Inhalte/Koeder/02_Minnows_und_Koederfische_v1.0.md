@@ -12,7 +12,7 @@ asset_ids: ["BAIT-MINNOW-SET-001"]
 
 # Minnows und Köderfische
 
-Minnows sind die erste Naturköderwahl für Crappie; größere legale Shiner sprechen Bass an.
+Minnows sind die erste Naturköderwahl für Crappie; grössere legale Shiner sprechen Bass an.
 
 ## Auswahlmatrix
 

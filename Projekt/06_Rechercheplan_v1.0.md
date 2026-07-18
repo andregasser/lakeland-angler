@@ -70,7 +70,7 @@ Beispiele:
 | --- | --- | --- |
 | A | weitgehend zeitlos, etwa Anatomie | vor redaktioneller Freigabe |
 | B | langsam veränderlich, etwa Habitatbeschreibung | vor Layoutfreigabe |
-| C | regelmäßig veränderlich, etwa Regeln | vor Layout und Veröffentlichung |
+| C | regelmässig veränderlich, etwa Regeln | vor Layout und Veröffentlichung |
 | D | tagesaktuell, etwa Algenwarnung | nicht als dauerhafte Tatsachenangabe abdrucken |
 
 ## Mindestanforderungen je Faktenbereich

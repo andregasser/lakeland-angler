@@ -23,7 +23,7 @@ Er soll:
 - ungefähr 60 Seiten
 - druckfähiges PDF und digitale Version
 - Magazinstil mit vielen Grafiken, Tabellen und Checklisten
-- wenig Fließtext
+- wenig Fliesstext
 - Doppelseiten werden gestalterisch mitgedacht
 
 ## Sprache und Ton
@@ -105,7 +105,7 @@ Nicht aufgenommen werden GPS-Koordinaten, Öffnungszeiten und Preise.
 Der Guide enthält kompakte Hinweise zu:
 
 - Angellizenzen und geltenden Regeln
-- Fangbegrenzungen und Mindestmaßen
+- Fangbegrenzungen und Mindestmassen
 - Alligatoren und Schlangen
 - Wetter, Hitze und Gewittern
 - sicherem Angeln mit Kindern
@@ -144,8 +144,8 @@ Zuerst werden zeitlose Eigenschaften und Auswahlkriterien beschrieben. Konkrete 
 
 - ruhiges, professionelles Layout
 - klare Informationshierarchie
-- großzügiger Weißraum
-- große, konsistente Illustrationen
+- grosszügiger Weissraum
+- grosse, konsistente Illustrationen
 - einheitliche Tabellen, Karten und Icons
 - keine KI-typischen Bilder, Cliparts oder generischen Stockgrafiken
 - keine extrem gesättigten Farben oder künstlichen Hintergründe

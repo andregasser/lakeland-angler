@@ -49,8 +49,8 @@ Quelle der konkreten Tabellenwerte: `SRC-FDOH-004`. Alle Werte sind vor Layoutfr
 | Gewässer | Dokumentiertes Ereignis | Konsequenz für den Guide |
 | --- | --- | --- |
 | Lake Gibson | Algenwarnung 2024 | keine dauerhafte Warnung abdrucken; Sichtprüfung und aktuelle Behördenabfrage erklären |
-| Lake Hollingsworth | Algenwarnung 2023 und Fischsterben 2026 | bleibt außerhalb der ersten Ausgabe |
-| Lake Hancock | wiederholte Algenhinweise und Sauerstoffprobleme | bleibt außerhalb der ersten Ausgabe |
+| Lake Hollingsworth | Algenwarnung 2023 und Fischsterben 2026 | bleibt ausserhalb der ersten Ausgabe |
+| Lake Hancock | wiederholte Algenhinweise und Sauerstoffprobleme | bleibt ausserhalb der ersten Ausgabe |
 
 ## Interpretationsgrenzen
 

@@ -24,7 +24,7 @@ asset_ids: ["QRC-BAIT-RIG-GEAR-001"]
 
 Haken 6/8, kleine Pose, Split Shots, Zange, Schnurknipser, Wasser, Sonnenschutz, Regeln und Kühlbox bei geplanter Entnahme.
 
-## Wenn nichts beißt
+## Wenn nichts beisst
 
 1. Tiefe ändern.
 2. Tempo reduzieren.

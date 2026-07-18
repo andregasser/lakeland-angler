@@ -19,5 +19,5 @@ Lakeland, Florida
 ## Produktionsnotizen
 
 - Keine zusätzlichen Erklärtexte oder Badges auf dem Cover.
-- Benötigte Assets: vollflächiges Lakeland-Süßwassermotiv mit Angler, Vegetation und subtiler Stadtsilhouette; Motiv ohne eingebetteten Text
+- Benötigte Assets: vollflächiges Lakeland-Süsswassermotiv mit Angler, Vegetation und subtiler Stadtsilhouette; Motiv ohne eingebetteten Text
 - Titel und Untertitel werden im Layout ergänzt und müssen in A5-Ansicht eindeutig lesbar bleiben.

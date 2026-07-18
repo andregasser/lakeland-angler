@@ -36,9 +36,9 @@ asset_ids:
 
 ## Erkennen
 
-- Hoher, seitlich abgeflachter Körper eines großen Sonnenbarsches
+- Hoher, seitlich abgeflachter Körper eines grossen Sonnenbarsches
 - Dunkler Kiemendeckellappen mit rotem bis orangefarbenem hinterem Rand
-- Häufig größer und etwas tiefer stehend als Bluegill
+- Häufig grösser und etwas tiefer stehend als Bluegill
 
 **Verwechslung:** Bluegill besitzt ebenfalls einen dunklen Kiemendeckellappen, aber keinen leuchtend roten oder orangefarbenen Saum. Nutze die Markierung und nicht allein die Körperfarbe zur Bestimmung.
 
@@ -75,7 +75,7 @@ asset_ids:
 ## Nach dem Fang
 
 - **Versorgung:** Art, gemeinsame Panfish-Regel, lokale Sonderregel und Verzehrhinweis prüfen. Entnommenen Fisch sofort kalt halten.
-- **Küche:** Größere Redear liefern feste, milde Portionen für Pfanne, Grill oder Tacos. Im dicksten Bereich mindestens 63 °C erreichen.
+- **Küche:** Grössere Redear liefern feste, milde Portionen für Pfanne, Grill oder Tacos. Im dicksten Bereich mindestens 63 °C erreichen.
 - **Erfolgsrezept:** Fisch aus der Pfanne, Seite 55
 
 > **Merksatz:** Shellcracker findest du über harten Boden: Wurm grundnah, wenig Gewicht und die nächste Tiefenkante im Blick.
@@ -90,6 +90,6 @@ asset_ids:
 
 ## Produktionsnotizen
 
-- Offene Faktenprüfung: genaue Hakengröße, Schnurklasse, Geschmacksbeschreibung und Sonderregeln vor Veröffentlichung
-- Benötigte Assets: große Fischillustration, roter Kiemendeckelsaum, Hartboden-/Tiefenkantenskizze, Mond-, Köder-, Kühl- und Küchen-Icons
+- Offene Faktenprüfung: genaue Hakengrösse, Schnurklasse, Geschmacksbeschreibung und Sonderregeln vor Veröffentlichung
+- Benötigte Assets: grosse Fischillustration, roter Kiemendeckelsaum, Hartboden-/Tiefenkantenskizze, Mond-, Köder-, Kühl- und Küchen-Icons
 - Layoutprüfung: sichtbarer Rohtext muss innerhalb des Budgets von 350–500 Wörtern bleiben

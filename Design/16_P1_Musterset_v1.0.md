@@ -28,7 +28,7 @@ Die benannten Farben des Designsystems werden für das Musterset mit folgenden A
 | Fresh Green | `#64805A` | Vegetation und positive Orientierung |
 | Sand Beige | `#D8C7A5` | helle Flächen und ruhige Hintergründe |
 | Sunset Orange | `#D97932` | sparsame Akzente und Fokus |
-| Safety Red | `#B44336` | ausschließlich Warnungen |
+| Safety Red | `#B44336` | ausschliesslich Warnungen |
 | Ink | `#202B30` | technische Linien und Beschriftung im Layout |
 | Paper | `#FAF8F2` | Illustrations- und Seitenhintergrund |
 
@@ -42,10 +42,10 @@ Die Werte gelten als Arbeitsstandard. Eine spätere drucktechnische CMYK-Anpassu
 - runde Linienenden und runde Verbindungen
 - optische Sicherheitszone von mindestens `6` Einheiten
 - keine Texte, Verläufe, Schlagschatten oder perspektivischen Effekte
-- gefüllte Flächen nur, wenn die Silhouette sonst bei kleiner Größe zerfällt
+- gefüllte Flächen nur, wenn die Silhouette sonst bei kleiner Grösse zerfällt
 - PNG-Export: `1024 × 1024 px`, transparenter Hintergrund
 
-### Zielgröße im Buch
+### Zielgrösse im Buch
 
 - regulär: 6–8 mm
 - kleinste zulässige Darstellung: 5 mm
@@ -57,10 +57,10 @@ Die Werte gelten als Arbeitsstandard. Eine spätere drucktechnische CMYK-Anpassu
 
 - wissenschaftlich plausible perfekte Seitenansicht
 - Kopf nach links, Schwanz nach rechts
-- vollständige Silhouette einschließlich Schwanz- und geschlossener Flossen
+- vollständige Silhouette einschliesslich Schwanz- und geschlossener Flossen
 - natürliche Körperhaltung ohne starke Krümmung
 - arttypischer hoher, seitlich abgeflachter Körper
-- unregelmäßige dunkle Flecken statt vertikaler Bänder
+- unregelmässige dunkle Flecken statt vertikaler Bänder
 - zusammenhängende Rückenflosse mit erkennbaren Hart- und Weichstrahlen
 - neutrales weiches Tageslicht von links oben
 - keine Angelschnur, Hände, Wasser, Boden oder dekorative Pflanzen
@@ -71,14 +71,14 @@ Die Werte gelten als Arbeitsstandard. Eine spätere drucktechnische CMYK-Anpassu
 - PNG mit transparentem Hintergrund
 - mindestens 3600 px Breite
 - verlustfrei, sRGB-Arbeitsdatei
-- zusätzliche verkleinerte Prüfausgabe in vorgesehener A5-Druckgröße
+- zusätzliche verkleinerte Prüfausgabe in vorgesehener A5-Druckgrösse
 - alle fünf Fischarten erhalten später dieselbe Blickrichtung, Lichtquelle und relative Darstellungslogik
 
 ## Montagestandard
 
 ### Bobber-Rig-Muster
 
-- weißer beziehungsweise Paper-Hintergrund
+- weisser beziehungsweise Paper-Hintergrund
 - vertikale Leserichtung von Hauptschnur zu Haken
 - Komponenten: Hauptschnur, kleine Pose, Split Shot, 6–12 Zoll Abstand, Einzelhaken und kompakter Naturköder
 - Hauptschnur in Deep Lake Blue, technische Konturen in Ink
@@ -126,7 +126,7 @@ RIG-BOBBER-001_v1.png
 
 ## Abnahmekriterien
 
-- Motiv ist in der Zielgröße sofort erkennbar.
+- Motiv ist in der Zielgrösse sofort erkennbar.
 - Keine sichtbaren KI-Artefakte, unlogischen Überlagerungen oder uneinheitlichen Linien.
 - Fischmerkmale und Montageaufbau sind fachlich korrekt.
 - Farben funktionieren auf Paper und in Graustufen ausreichend unterscheidbar.
@@ -135,4 +135,4 @@ RIG-BOBBER-001_v1.png
 
 ## Noch nicht freigegeben
 
-Die Farbwerte, Strichstärken und Musterbeschreibungen sind Produktionsvorgaben, aber noch keine fertigen Assets. Ihre endgültige Freigabe erfolgt anhand der tatsächlichen Proofs in A5-Größe.
+Die Farbwerte, Strichstärken und Musterbeschreibungen sind Produktionsvorgaben, aber noch keine fertigen Assets. Ihre endgültige Freigabe erfolgt anhand der tatsächlichen Proofs in A5-Grösse.

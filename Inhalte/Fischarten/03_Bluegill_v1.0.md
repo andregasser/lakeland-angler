@@ -45,9 +45,9 @@ asset_ids:
 ## Finden
 
 - **Standplätze:** Ufervegetation, Stege, Holz und flache sandige Bereiche
-- **Tiefe:** während der Laichphase besonders Wasser unter 6 Fuß absuchen
+- **Tiefe:** während der Laichphase besonders Wasser unter 6 Fuss absuchen
 - **Geeignete Seen:** Lake Parker, Saddle Creek, Banana Lake und Lake Hartridge
-- **Saisonales Verhalten:** Bluegill laicht über den Sommer in großen Kolonien. Auf Sand können 30–40 flache Nester dicht beieinander liegen. Die Aktivität erreicht in Tenoroc früh morgens und spät nachmittags ihren Höhepunkt. Außerhalb der Nestphase tiefer an Struktur suchen, wenn im Flachwasser keine Bisse kommen.
+- **Saisonales Verhalten:** Bluegill laicht über den Sommer in grossen Kolonien. Auf Sand können 30–40 flache Nester dicht beieinander liegen. Die Aktivität erreicht in Tenoroc früh morgens und spät nachmittags ihren Höhepunkt. Ausserhalb der Nestphase tiefer an Struktur suchen, wenn im Flachwasser keine Bisse kommen.
 
 ## Fangen
 
@@ -58,18 +58,18 @@ asset_ids:
 ### Köder und Montage
 
 - **Beste Köder:** Würmer, Crickets, Grubs, Sand Maggots und Grass Shrimp
-- **Montage:** Haken Größe 6 oder 8 mit kleinem Split Shot etwa 6 Zoll oberhalb; wahlweise unter Pose
-- **Präsentation:** Naturköder ruhig anbieten; alternativ einen weißen oder chartreusefarbenen 1/8-oz-Beetle-Spin langsam führen
+- **Montage:** Haken Grösse 6 oder 8 mit kleinem Split Shot etwa 6 Zoll oberhalb; wahlweise unter Pose
+- **Präsentation:** Naturköder ruhig anbieten; alternativ einen weissen oder chartreusefarbenen 1/8-oz-Beetle-Spin langsam führen
 
 ### Ausrüstung
 
 - **Rute/Rolle:** ultraleichte bis leichte Spinnrute mit kleiner Stationärrolle
 - **Schnur:** dünne Schnur für kontrollierte Würfe und feine Bisserkennung
-- **Haken:** Größe 6 oder 8
+- **Haken:** Grösse 6 oder 8
 
 ## Häufige Fehler
 
-- **Zu großer Köder:** Köder so kompakt anbringen, dass die Hakenspitze frei bleibt.
+- **Zu grosser Köder:** Köder so kompakt anbringen, dass die Hakenspitze frei bleibt.
 - **Nur ein Nest befischen:** Nachlassende Bisse sind das Signal, die nächste Sandstelle oder Struktur abzusuchen.
 
 ## Nach dem Fang
@@ -91,5 +91,5 @@ asset_ids:
 ## Produktionsnotizen
 
 - Offene Faktenprüfung: Schnurklasse, Geschmacksbeschreibung und Sonderregeln unmittelbar vor Veröffentlichung
-- Benötigte Assets: große Fischillustration, Kiemendeckel-Detail, Nestkolonie-/Uferskizze, Köder-, Kühl- und Küchen-Icons
+- Benötigte Assets: grosse Fischillustration, Kiemendeckel-Detail, Nestkolonie-/Uferskizze, Köder-, Kühl- und Küchen-Icons
 - Layoutprüfung: sichtbarer Rohtext muss innerhalb des Budgets von 350–500 Wörtern bleiben

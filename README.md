@@ -4,7 +4,7 @@
 
 **Lakeland Angler** ist ein hochwertig konzipierter Angelguide für deutschsprachige Urlauber, Familien, Einsteiger und Hobbyangler in Central Florida. Das Buch verbindet saisonale Fangstrategien, konkrete Gewässerprofile und einfache Montagen mit sicherer Fischversorgung und unkomplizierten Rezepten.
 
-Das Ziel ist ein druckfähiger A5-Guide mit 60 Seiten, vielen Tabellen, Karten und Illustrationen – und möglichst wenig unnötigem Fließtext.
+Das Ziel ist ein druckfähiger A5-Guide mit 60 Seiten, vielen Tabellen, Karten und Illustrationen – und möglichst wenig unnötigem Fliesstext.
 
 > **Mehr Zeit mit Angeln. Weniger Zeit mit Lesen.**
 
@@ -106,7 +106,7 @@ Jedes Inhaltsmodul besitzt eine Dokument-ID, Zielseite, Version, Status, Prüfda
 - Die fünf Zielfische werden gleichwertig behandelt.
 - Rechtliche, gesundheitliche und sicherheitsrelevante Aussagen benötigen offizielle Quellen und ein Prüfdatum.
 - Veränderliche Regeln werden vor Layout- und Druckfreigabe erneut kontrolliert.
-- Illustrationen müssen fachlich korrekt, stilistisch konsistent und in A5-Größe lesbar sein.
+- Illustrationen müssen fachlich korrekt, stilistisch konsistent und in A5-Grösse lesbar sein.
 - Karten dienen der didaktischen Orientierung und nicht der Navigation.
 
 ## Mitarbeit und Git-Workflow
@@ -135,4 +135,4 @@ Besonders die Illustrationen zu Betäubung, Ausbluten und Filetieren bleiben bis
 
 ## Lizenz und Veröffentlichung
 
-Das Buch befindet sich in Produktion. Urheber-, Veröffentlichungs- und Lizenzangaben sind noch nicht abschließend festgelegt. Bis zur ausdrücklichen Veröffentlichung einer Lizenz bleiben alle Rechte vorbehalten.
+Das Buch befindet sich in Produktion. Urheber-, Veröffentlichungs- und Lizenzangaben sind noch nicht abschliessend festgelegt. Bis zur ausdrücklichen Veröffentlichung einer Lizenz bleiben alle Rechte vorbehalten.

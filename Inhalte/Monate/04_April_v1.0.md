@@ -39,7 +39,7 @@ asset_ids: ["MONTH-APRIL-001", "CHART-APRIL-RANKING-001"]
 
 ## Das lohnt sich weniger
 
-Ausschließlich große, schnelle Köder passen schlecht zu vorsichtigen Panfish an flachen Nestern.
+Ausschliesslich grosse, schnelle Köder passen schlecht zu vorsichtigen Panfish an flachen Nestern.
 
 > **Monatstipp:** Nutze den Morgen für flache Fische und wechsle später an die erste tiefere Kante.
 

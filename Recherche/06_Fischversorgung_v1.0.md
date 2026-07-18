@@ -11,7 +11,7 @@
 | Prozess | Benötigter Nachweis | Status |
 | --- | --- | --- |
 | Entscheidung zur Entnahme | Legalität, Artbestimmung, Verzehrhinweis | Offen |
-| waidgerechtes Töten | fachlich geeignete Methode je Fischgröße | Offen |
+| waidgerechtes Töten | fachlich geeignete Methode je Fischgrösse | Offen |
 | Ausbluten | Nutzen, Ablauf und Grenzen | Offen |
 | sofortiges Kühlen | Temperatur- und Zeitvorgaben | Begonnen |
 | Transport | Kühlkette und Hygiene | Begonnen |

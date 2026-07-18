@@ -14,7 +14,7 @@ asset_ids: ["EDITORIAL-LAKELAND-MORNING-001"]
 
 Lakeland ist von Wasser geprägt. Zwischen Stadt, Zypressen, flachen Uferzonen und ehemaligen Phosphatgruben liegen sehr unterschiedliche Angelmöglichkeiten oft überraschend nah beieinander. Genau daraus entstand die Idee für diesen Guide: nicht möglichst viele Fischarten und Gewässer aufzuzählen, sondern einen verlässlichen Weg vom ersten Plan bis zum fertigen Essen zu zeigen.
 
-Im Mittelpunkt stehen fünf Fische, denen du in Zentralflorida regelmäßig begegnen kannst: Black Crappie, Blue Tilapia, Bluegill, Redear Sunfish und Largemouth Bass. Jeder erhält denselben Raum. Du erfährst, wann und wo sich ein Versuch lohnt, welche einfachen Köder und Montagen funktionieren und welche Regeln vor einer Entnahme geprüft werden müssen.
+Im Mittelpunkt stehen fünf Fische, denen du in Zentralflorida regelmässig begegnen kannst: Black Crappie, Blue Tilapia, Bluegill, Redear Sunfish und Largemouth Bass. Jeder erhält denselben Raum. Du erfährst, wann und wo sich ein Versuch lohnt, welche einfachen Köder und Montagen funktionieren und welche Regeln vor einer Entnahme geprüft werden müssen.
 
 Der Catch-&-Cook-Gedanke endet nicht mit dem Anhieb. Ein entnommener Fisch verdient einen schnellen, respektvollen und hygienischen Umgang. Deshalb gehören Kühlung, Verarbeitung, Verzehrhinweise und einfache Rezepte ebenso zu diesem Buch wie Monatsplanung und Gewässerwahl.
 

@@ -41,7 +41,7 @@ Alle inhaltlich vollständigen Module sind redaktionell freigegeben. Lake Gibson
 
 ## Priorität 2 – Aktualitätsprüfung vor Layoutfreigabe
 
-- FWC-Lizenzen, Fangregeln, Größen- und Tageslimits
+- FWC-Lizenzen, Fangregeln, Grössen- und Tageslimits
 - Fish-Management-Area- und Teilsee-Sonderregeln
 - Gewässerzugänge, Sperren und Motorregeln
 - Wetter-, Algen- und Verzehrhinweise
@@ -52,8 +52,8 @@ Veränderliche Angaben erhalten erst nach dieser Prüfung die finale redaktionel
 ## Priorität 3 – Gesamtlektorat
 
 - deutsche Leitbegriffe für englische Fachbegriffe festlegen
-- Großschreibung und Schreibweise von Ködern, Montagen und Fischgruppen vereinheitlichen
-- Maßeinheiten sowie deutsche und US-amerikanische Angaben konsistent darstellen
+- Grossschreibung und Schreibweise von Ködern, Montagen und Fischgruppen vereinheitlichen
+- Masseinheiten sowie deutsche und US-amerikanische Angaben konsistent darstellen
 - Wiederholungen zwischen Quick Start, Ausrüstung und Quick Reference reduzieren
 - Querverweise nach dem finalen Satz erneut prüfen
 

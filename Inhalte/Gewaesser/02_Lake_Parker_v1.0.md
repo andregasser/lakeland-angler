@@ -32,7 +32,7 @@ Flaches Fish Management Area mit gut belegter Ufer- und Bootsfischerei in Lakela
 
 1. **Uferstruktur:** Crickets oder Red Wigglers unter feiner Pose für Bluegill und Redear anbieten. Cattails und Bulrush mit Softplastics auf Bass absuchen.
 2. **Offenes Wasser:** Minnows oder kleine Jigs in wechselnden Tiefen präsentieren, bis du einen Crappie-Schwarm findest.
-3. **Hourglass-Bereich:** Vegetationsring und Außenkante mit Swim Jig, Bladed Jig oder Topwater befischen. Die tiefere Zone hält ganzjährig Fische.
+3. **Hourglass-Bereich:** Vegetationsring und Aussenkante mit Swim Jig, Bladed Jig oder Topwater befischen. Die tiefere Zone hält ganzjährig Fische.
 
 ## Methoden
 
@@ -42,7 +42,7 @@ Flaches Fish Management Area mit gut belegter Ufer- und Bootsfischerei in Lakela
 
 ## Strukturen und Vegetation
 
-Lake Parker ist höchstens etwa 10 Fuß tief. Kissimmee Grass, Bulrush, Cattails und Unterwasservegetation schaffen klare Kanten.
+Lake Parker ist höchstens etwa 10 Fuss tief. Kissimmee Grass, Bulrush, Cattails und Unterwasservegetation schaffen klare Kanten.
 
 ## Besonderheiten und Gefahren
 

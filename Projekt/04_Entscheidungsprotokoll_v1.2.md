@@ -32,7 +32,7 @@ Alle fünf Arten erhalten denselben redaktionellen Umfang, dasselbe Doppelseiten
 Begründung:
 
 - in Florida weit verbreitet
-- in den Gewässern rund um Lakeland regelmäßig zu erwarten
+- in den Gewässern rund um Lakeland regelmässig zu erwarten
 - für Urlauber und Hobbyangler besonders relevant
 - kann beim gezielten Angeln auf andere Arten als Beifang auftreten
 
@@ -119,4 +119,4 @@ Lake Hartridge ist für den Catch-&-Cook-Schwerpunkt besser geeignet, weil:
 - alle fünf Zielfische in der Florida-DOH-Verzehrtabelle aufgeführt sind
 - konkrete Verzehrempfehlungen für beide Personengruppen vorliegen
 
-Lake Hancock bleibt wegen Sauerstoffproblemen, Algenereignissen, begrenzter Zielfischabdeckung und offener Zugangsfragen außerhalb der ersten Ausgabe.
+Lake Hancock bleibt wegen Sauerstoffproblemen, Algenereignissen, begrenzter Zielfischabdeckung und offener Zugangsfragen ausserhalb der ersten Ausgabe.

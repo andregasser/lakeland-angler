@@ -30,7 +30,7 @@ Nicht gewünscht:
 - technische Arbeitsblätter
 - PowerPoint- oder Dashboard-Optik
 - starre Ansammlungen rechteckiger Karten
-- große unbelebte Weißflächen
+- grosse unbelebte Weissflächen
 - minimalistische Skizzen als dominante Seitengrafik
 - isoliert wirkende Fotos und Infoboxen
 - sichtbar programmatisch zusammengesetzte Layouts
@@ -41,9 +41,9 @@ Nicht gewünscht:
 
 - Fotografien oder realistische Editorial-Illustrationen prägen die gesamte Seite.
 - Hintergründe dürfen vollflächig über die Seite laufen.
-- Motive werden angeschnitten, überlagert und in unterschiedlichen Maßstäben eingesetzt.
+- Motive werden angeschnitten, überlagert und in unterschiedlichen Massstäben eingesetzt.
 - Landschaft, Hauptmotiv und Detailaufnahmen bilden eine gemeinsame räumliche Szene.
-- Freie Flächen entstehen aus dem Bild und nicht aus großen weißen Rechtecken.
+- Freie Flächen entstehen aus dem Bild und nicht aus grossen weissen Rechtecken.
 
 ### Ebenen und Tiefe
 
@@ -60,7 +60,7 @@ Jede bildstarke Inhaltsseite verwendet nach Möglichkeit mehrere visuelle Ebenen
 ### Bildfenster
 
 - Detailfotos werden bevorzugt organisch integriert.
-- Geeignet sind runde Makrofenster, weiche unregelmäßige Masken, Pillenformen und natürliche Anschnitte.
+- Geeignet sind runde Makrofenster, weiche unregelmässige Masken, Pillenformen und natürliche Anschnitte.
 - Harte rechteckige Bildkacheln werden nur verwendet, wenn sie in die Gesamtkomposition eingebunden sind.
 - Rahmen und Konturen verwenden die Farben des Designsystems und bleiben sparsam.
 
@@ -70,8 +70,8 @@ Die Typografie ist ein eigenständiges Gestaltungselement und nicht nur Beschrif
 
 ### Display-Typografie
 
-- sehr große, kräftige und bevorzugt kondensierte Groteskschrift
-- markante Größenkontraste
+- sehr grosse, kräftige und bevorzugt kondensierte Groteskschrift
+- markante Grössenkontraste
 - kurze Titel mit maximal zwei Zeilen
 - einzelne Titelwörter dürfen unterschiedliche Systemfarben tragen
 - dezente Druck-, Papier- oder Siebdrucktextur ist zulässig

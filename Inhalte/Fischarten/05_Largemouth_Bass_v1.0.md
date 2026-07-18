@@ -36,11 +36,11 @@ asset_ids:
 
 ## Erkennen
 
-- Großes Maul; der Oberkiefer reicht hinter den hinteren Augenrand
+- Grosses Maul; der Oberkiefer reicht hinter den hinteren Augenrand
 - Deutliche tiefe Einbuchtung zwischen vorderem und hinterem Teil der Rückenflosse
 - Dunkles Seitenband auf grünlich bis olivfarbenem Körper
 
-**Verwechslung:** Florida Bass und Largemouth Bass gelten taxonomisch inzwischen als getrennte Arten, sind äußerlich aber nicht sicher unterscheidbar. FWC behandelt beide regulatorisch gemeinsam.
+**Verwechslung:** Florida Bass und Largemouth Bass gelten taxonomisch inzwischen als getrennte Arten, sind äusserlich aber nicht sicher unterscheidbar. FWC behandelt beide regulatorisch gemeinsam.
 
 ## Finden
 
@@ -65,17 +65,17 @@ asset_ids:
 
 - **Rute/Rolle:** mittlere bis kräftige Spinn- oder Baitcast-Kombination passend zur Deckung
 - **Schnur:** in dichter Vegetation stärker, bei kleinen freien Ködern feiner
-- **Haken:** zum Softplastic und zur Ködergröße passender Einzelhaken
+- **Haken:** zum Softplastic und zur Ködergrösse passender Einzelhaken
 
 ## Häufige Fehler
 
-- **Nur sichtbare Deckung anwerfen:** Auch Außenkante, Tiefenwechsel und offene Lücke systematisch befischen.
-- **Jeden Fisch entnehmen:** Regel, Gewässer, Fischgröße und Verzehrhinweis zuerst gemeinsam bewerten.
+- **Nur sichtbare Deckung anwerfen:** Auch Aussenkante, Tiefenwechsel und offene Lücke systematisch befischen.
+- **Jeden Fisch entnehmen:** Regel, Gewässer, Fischgrösse und Verzehrhinweis zuerst gemeinsam bewerten.
 
 ## Nach dem Fang
 
 - **Versorgung:** Bass zählt zum gemeinsamen Black-Bass-Limit; lokale Sonderregeln können deutlich strenger sein. Bei Tenoroc ist Zurücksetzen häufig vorgeschrieben. Entnahme und Verzehrhinweis immer vor dem Angeln prüfen.
-- **Küche:** Das weiße Fleisch eignet sich für Grill oder Pfanne. Wegen Quecksilber gelten je Gewässer und Personengruppe unterschiedliche Empfehlungen. Im dicksten Bereich mindestens 63 °C erreichen.
+- **Küche:** Das weisse Fleisch eignet sich für Grill oder Pfanne. Wegen Quecksilber gelten je Gewässer und Personengruppe unterschiedliche Empfehlungen. Im dicksten Bereich mindestens 63 °C erreichen.
 - **Erfolgsrezept:** Fisch vom Grill, Seite 56
 
 > **Merksatz:** Fische nicht nur Deckung – die entscheidende Stelle ist oft ihre Kante zum tieferen Wasser.
@@ -91,5 +91,5 @@ asset_ids:
 ## Produktionsnotizen
 
 - Offene Faktenprüfung: endgültige deutsche/taxonomische Benennung, Geräteklassen und lokale Regeln unmittelbar vor Veröffentlichung
-- Benötigte Assets: große Fischillustration, Maul-/Rückenflossen-Detail, Vegetationskanten-Skizze, Köder-, Regel-, Kühl- und Küchen-Icons
+- Benötigte Assets: grosse Fischillustration, Maul-/Rückenflossen-Detail, Vegetationskanten-Skizze, Köder-, Regel-, Kühl- und Küchen-Icons
 - Layoutprüfung: sichtbarer Rohtext muss innerhalb des Budgets von 350–500 Wörtern bleiben

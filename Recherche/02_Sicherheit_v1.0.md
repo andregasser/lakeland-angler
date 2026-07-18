@@ -18,8 +18,8 @@
 | FACT-SAFE-006 | Alligatoren kommen in allen 67 Countys Floridas vor. Sie dürfen nicht gefüttert werden; bei Sichtung ist Abstand zu halten. | SRC-FWC-011 | B | Bestätigt |
 | FACT-SAFE-007 | Haustiere sollen angeleint und vom Wasserrand ferngehalten werden. | SRC-FWC-011 | B | Bestätigt |
 | FACT-SAFE-008 | Die meisten Schlangen in Florida sind ungiftig. Bei einer Begegnung soll man Abstand halten und das Tier nicht bedrängen oder töten. | SRC-FWC-012 | B | Bestätigt |
-| FACT-SAFE-009 | Bei gefährlicher Hitze sollen Outdoor-Aktivitäten, besonders in der Tageshitze, verschoben oder reduziert werden. Wer draußen bleibt, soll Wasser trinken und häufige Pausen im Schatten einlegen. | SRC-NWS-003 | B/C | Bestätigt |
-| FACT-SAFE-010 | Für Aktivitäten am Wasser empfiehlt der NWS Schatten, schützende Kleidung, Hut, UV-blockierende Sonnenbrille und Breitband-Sonnenschutz gemäß Etikett. Wasser und Sand erhöhen durch Reflexion das Sonnenbrandrisiko. | SRC-NWS-004 | B | Bestätigt |
+| FACT-SAFE-009 | Bei gefährlicher Hitze sollen Outdoor-Aktivitäten, besonders in der Tageshitze, verschoben oder reduziert werden. Wer draussen bleibt, soll Wasser trinken und häufige Pausen im Schatten einlegen. | SRC-NWS-003 | B/C | Bestätigt |
+| FACT-SAFE-010 | Für Aktivitäten am Wasser empfiehlt der NWS Schatten, schützende Kleidung, Hut, UV-blockierende Sonnenbrille und Breitband-Sonnenschutz gemäss Etikett. Wasser und Sand erhöhen durch Reflexion das Sonnenbrandrisiko. | SRC-NWS-004 | B | Bestätigt |
 
 ## Noch zu recherchieren
 

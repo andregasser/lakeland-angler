@@ -34,7 +34,7 @@ Kleiner, flacher County-See mit Bootsrampe, Angelpier und amtlichen Verzehreintr
 
 ## Strukturen und Vegetation
 
-Banana Lake umfasst etwa 260 Acres, ist im Mittel rund 4 Fuß und maximal etwa 7 Fuß tief. Kleine Tiefenunterschiede und Uferdeckung sind daher besonders wichtig.
+Banana Lake umfasst etwa 260 Acres, ist im Mittel rund 4 Fuss und maximal etwa 7 Fuss tief. Kleine Tiefenunterschiede und Uferdeckung sind daher besonders wichtig.
 
 ## Besonderheiten und Gefahren
 

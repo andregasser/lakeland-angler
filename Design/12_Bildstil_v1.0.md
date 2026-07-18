@@ -69,7 +69,7 @@ Jede Fischart wird dargestellt als:
 - komplette Schwanzflosse sichtbar
 - geschlossene Flossen
 - natürliche Körperhaltung
-- maßstabsgetreu
+- massstabsgetreu
 - neutraler Hintergrund
 
 Keine Unterwasser-Szenen.
@@ -94,7 +94,7 @@ Technische Zeichnungen.
 
 Merkmale:
 
-- weiße Hintergründe
+- weisse Hintergründe
 - schwarze Linien
 - farbige Hervorhebungen
 - klare Beschriftungen
@@ -116,7 +116,7 @@ Zeigt:
 - Fischstandorte
 - Wurfrichtung
 
-Nicht maßstabsgetreu, sondern didaktisch.
+Nicht massstabsgetreu, sondern didaktisch.
 
 ---
 
@@ -128,7 +128,7 @@ Karten besitzen:
 - klare Symbole
 - gut lesbare Beschriftung
 - Norden
-- Maßstab
+- Massstab
 - Legende
 
 Satellitenbilder werden nicht verwendet.

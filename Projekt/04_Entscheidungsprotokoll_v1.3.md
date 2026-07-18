@@ -32,7 +32,7 @@ Alle fünf Arten erhalten denselben redaktionellen Umfang, dasselbe Doppelseiten
 Begründung:
 
 - in Florida weit verbreitet
-- in den Gewässern rund um Lakeland regelmäßig zu erwarten
+- in den Gewässern rund um Lakeland regelmässig zu erwarten
 - für Urlauber und Hobbyangler besonders relevant
 - kann beim gezielten Angeln auf andere Arten als Beifang auftreten
 
@@ -119,7 +119,7 @@ Lake Hartridge ist für den Catch-&-Cook-Schwerpunkt besser geeignet, weil:
 - alle fünf Zielfische in der Florida-DOH-Verzehrtabelle aufgeführt sind
 - konkrete Verzehrempfehlungen für beide Personengruppen vorliegen
 
-Lake Hancock bleibt wegen Sauerstoffproblemen, Algenereignissen, begrenzter Zielfischabdeckung und offener Zugangsfragen außerhalb der ersten Ausgabe.
+Lake Hancock bleibt wegen Sauerstoffproblemen, Algenereignissen, begrenzter Zielfischabdeckung und offener Zugangsfragen ausserhalb der ersten Ausgabe.
 
 ## E-009 – Verbindliche Editorial Art Direction
 
@@ -130,12 +130,12 @@ Lake Hancock bleibt wegen Sauerstoffproblemen, Algenereignissen, begrenzter Ziel
 Die weitere Gestaltung folgt insbesondere diesen Grundsätzen:
 
 - vollflächige, atmosphärische Florida-Bildwelten
-- dominante Editorial-Typografie mit deutlichen Größenkontrasten
+- dominante Editorial-Typografie mit deutlichen Grössenkontrasten
 - organisch integrierte Foto- und Makrodetails
 - natürliche Texturen, Ebenen und kontrollierte Überlagerungen
 - konsequente Verwendung der vorhandenen Farbtokens
 - keine technische Arbeitsblatt-, Dashboard- oder PowerPoint-Optik
-- keine großen unbelebten Weißflächen
+- keine grossen unbelebten Weissflächen
 - Fotografien statt minimalistischer Skizzen, sofern fachliche Genauigkeit gewährleistet ist
 
 Die Produktion erfolgt zweistufig: Zuerst wird ein zusammenhängender Art-Direction-Master freigegeben, danach werden Texte, Fachdetails, Auflösung und Druckparameter in einer kontrollierten Produktionsfassung finalisiert.

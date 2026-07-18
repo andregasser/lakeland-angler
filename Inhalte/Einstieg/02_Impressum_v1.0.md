@@ -24,7 +24,7 @@ Ausgabe 1.0 · Veröffentlichungsjahr: [ergänzen]
 
 ## Rechtlicher Hinweis
 
-Dieser Guide ersetzt weder amtliche Angelregeln noch Wetter-, Sicherheits- oder Gesundheitsinformationen. Lizenzen, Fang- und Größenlimits, lokale Sonderregeln, Zugänge, Sperren, Verzehrhinweise und Wetterlage können sich ändern und müssen vor jedem Angeltag bei den zuständigen Stellen geprüft werden. Angeln, Fischversorgung und Zubereitung erfolgen eigenverantwortlich.
+Dieser Guide ersetzt weder amtliche Angelregeln noch Wetter-, Sicherheits- oder Gesundheitsinformationen. Lizenzen, Fang- und Grössenlimits, lokale Sonderregeln, Zugänge, Sperren, Verzehrhinweise und Wetterlage können sich ändern und müssen vor jedem Angeltag bei den zuständigen Stellen geprüft werden. Angeln, Fischversorgung und Zubereitung erfolgen eigenverantwortlich.
 
 Karten und Gewässerskizzen dienen der Orientierung und sind nicht zur Navigation bestimmt. Produkt- und Ortsnamen verbleiben bei ihren jeweiligen Rechteinhabern.
 

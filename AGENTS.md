@@ -14,6 +14,7 @@ Die bestehenden Spezifikationen in `Projekt/`, `Design/` und `LAKELAND_ANGLER_Ko
 - Änderungen sollen klein, nachvollziehbar und auf die jeweilige Aufgabe begrenzt sein.
 - Widersprüche zwischen Spezifikationen dürfen nicht stillschweigend aufgelöst werden. Sie sind zu dokumentieren oder mit dem Projektverantwortlichen abzustimmen.
 - Neue Inhalte folgen der deutschen Du-Ansprache sowie dem kurzen, verständlichen und professionellen Outdoor-Stil des Guides.
+- Für alle deutschen Texte gilt Schweizer Rechtschreibung: In Fliesstexten, Titeln, Bildprompts und eingebetteten Seitentexten wird ausnahmslos `ss` verwendet; das scharfe S ist ausgeschlossen.
 - Tagesaktuelle fachliche Angaben, insbesondere Gesetze, Vorschriften und Sicherheitsinformationen, müssen vor der Verwendung anhand verlässlicher Quellen geprüft werden.
 
 ## Qualität

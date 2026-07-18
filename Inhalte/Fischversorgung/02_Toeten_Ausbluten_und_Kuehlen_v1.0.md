@@ -20,10 +20,10 @@ Festes Arbeitsbrett, geeignetes Schlagwerkzeug, scharfes Messer, schnittfeste Un
 
 ## Ablauf
 
-1. **Sichern:** Fisch auf einer stabilen, rutschfesten Fläche fixieren; Finger bleiben außerhalb der Schnittlinie.
+1. **Sichern:** Fisch auf einer stabilen, rutschfesten Fläche fixieren; Finger bleiben ausserhalb der Schnittlinie.
 2. **Betäuben:** Unverzüglich einen kräftigen, präzisen Schlag auf den artspezifisch richtigen Schädelpunkt ausführen.
 3. **Kontrollieren:** Die Betäubung muss sofort wirksam sein. Bei irgendeinem Zweifel unmittelbar erneut betäuben.
-4. **Töten und ausbluten:** Erst nach wirksamer Betäubung die großen Blutgefäße an den Kiemen mit einem sauberen Schnitt öffnen. Der Fisch darf das Bewusstsein nicht wiedererlangen.
+4. **Töten und ausbluten:** Erst nach wirksamer Betäubung die grossen Blutgefässe an den Kiemen mit einem sauberen Schnitt öffnen. Der Fisch darf das Bewusstsein nicht wiedererlangen.
 5. **Kühlen:** Nach dem Ausbluten sauber verpacken und vollständig in Eis auf 2–4 °C herunterkühlen.
 
 > **Stopp:** Niemals einen bewussten Fisch ausbluten lassen. Verwende keinen Schlagpunkt, den du für die betreffende Art nicht sicher kennst.
@@ -34,7 +34,7 @@ Werkzeug erst nach der Entnahme zu suchen. Lege alles griffbereit aus und brich 
 
 ## Endzustand
 
-Der Fisch ist tot, ausgeblutet, äußerlich sauber und lückenlos gekühlt.
+Der Fisch ist tot, ausgeblutet, äusserlich sauber und lückenlos gekühlt.
 
 ## Produktionsnotizen
 

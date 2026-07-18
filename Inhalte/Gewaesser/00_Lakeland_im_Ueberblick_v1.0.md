@@ -36,7 +36,7 @@ Lake Parker, Lake Crago und Lake Gibson liegen im engeren Lakeland-Raum. Tenoroc
 
 Die Karte ist eine Planungsübersicht, keine Navigationskarte. Sie zeigt relative Lage, Zugangstypen und die Verbindung zur jeweiligen Profilseite, aber keine geheimen Spots oder GPS-Punkte.
 
-Plane bei weiter entfernten Seen außerdem genügend Zeit für Anfahrt und Wetterwechsel ein.
+Plane bei weiter entfernten Seen ausserdem genügend Zeit für Anfahrt und Wetterwechsel ein.
 
 > **Merksatz:** Der beste See ist derjenige, dessen Zugang, Regeln und Struktur zu deinem heutigen Plan passen.
 

@@ -12,7 +12,7 @@ asset_ids: ["MAP-LAKE-ARIANA-001", "ICON-SHORE-ACCESS-001", "ICON-BOAT-ACCESS-00
 
 # Lake Ariana
 
-Großer öffentlicher See bei Auburndale mit erneuertem Dock und Bootsrampe sowie vier amtlich gelisteten Zielfischen.
+Grosser öffentlicher See bei Auburndale mit erneuertem Dock und Bootsrampe sowie vier amtlich gelisteten Zielfischen.
 
 ## Auf einen Blick
 
@@ -34,7 +34,7 @@ Großer öffentlicher See bei Auburndale mit erneuertem Dock und Bootsrampe sowi
 
 ## Strukturen und Vegetation
 
-Lake Ariana umfasst rund 1.019 Acres. Ältere amtliche Unterlagen nennen bis zu 26 Fuß Tiefe; nutze diese Zahl nur zur Einordnung, nicht zur Navigation.
+Lake Ariana umfasst rund 1.019 Acres. Ältere amtliche Unterlagen nennen bis zu 26 Fuss Tiefe; nutze diese Zahl nur zur Einordnung, nicht zur Navigation.
 
 ## Besonderheiten und Gefahren
 
