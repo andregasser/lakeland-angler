@@ -23,7 +23,9 @@ asset_ids: []
 | G | Seen rund um Lakeland | 43–51 |
 | H | Fisch versorgen | 52–54 |
 | I | Rezepte | 55–57 |
-| J | Quick Reference Cards | 58–60 |
+| J | Die drei wichtigsten Knoten | 58–60 |
+| K | Quick Reference Cards | 61–63 |
+| L | Rückseite | 64 |
 
 ## Direkteinstieg
 
@@ -31,8 +33,9 @@ asset_ids: []
 - Regeln und Sicherheit: Seiten 7–8
 - See auswählen: Seiten 43–51
 - Fang versorgen: Seiten 52–54
+- Knoten Schritt für Schritt: Seiten 58–60
 
 ## Produktionsnotizen
 
 - Seitenzahlen nach finalem Satz gegen das Layout prüfen.
-- Im Layout nur die zehn Hauptteile und den kompakten Direkteinstieg zeigen.
+- Im Layout die Hauptteile und den kompakten Direkteinstieg zeigen.

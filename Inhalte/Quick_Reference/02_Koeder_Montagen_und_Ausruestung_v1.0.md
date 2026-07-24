@@ -2,7 +2,7 @@
 dokument_id: "QRC-002"
 titel: "Köder, Montagen und Ausrüstung"
 seitentyp: "Quick Reference Card"
-zielseiten: "59"
+zielseiten: "62"
 version: "1.0"
 status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"

@@ -4,7 +4,7 @@
 
 **Lakeland Angler** ist ein hochwertig konzipierter Angelguide für deutschsprachige Urlauber, Familien, Einsteiger und Hobbyangler in Central Florida. Das Buch verbindet saisonale Fangstrategien, konkrete Gewässerprofile und einfache Montagen mit sicherer Fischversorgung und unkomplizierten Rezepten.
 
-Das Ziel ist ein druckfähiger A5-Guide mit 60 Seiten, vielen Tabellen, Karten und Illustrationen – und möglichst wenig unnötigem Fliesstext.
+Das Ziel ist ein druckfähiger A5-Guide mit 64 Seiten, vielen Tabellen, Karten und Illustrationen – und möglichst wenig unnötigem Fliesstext.
 
 > **Mehr Zeit mit Angeln. Weniger Zeit mit Lesen.**
 
@@ -15,7 +15,7 @@ Das Ziel ist ein druckfähiger A5-Guide mit 60 Seiten, vielen Tabellen, Karten u
 | Region | Lakeland und umliegende Gewässer in Florida |
 | Sprache | Deutsch mit etablierten englischen Angelbegriffen |
 | Format | A5 Hochformat, Print-PDF und digitale Ausgabe |
-| Umfang | 60 Seiten |
+| Umfang | 64 Seiten |
 | Schwerpunkt | Catch & Cook, Einsteigerfreundlichkeit und zeitlose Planung |
 | Stil | professionelles Outdoor- und Reisehandbuch |
 
@@ -55,19 +55,21 @@ Eine regionale Übersicht ordnet alle Gewässer rund um Lakeland ein. Die Profil
 | 43–51 | Seen rund um Lakeland |
 | 52–54 | Fang versorgen, kühlen und filetieren |
 | 55–57 | drei einfache Fischrezepte |
-| 58–60 | Quick Reference Cards |
+| 58–60 | drei fotografische Knotenanleitungen |
+| 61–63 | Quick Reference Cards |
+| 64 | Rückseite |
 
 Das verbindliche Seitenmodell steht im [Inhaltsverzeichnis](Projekt/03_Inhaltsverzeichnis_v1.3.md), die redaktionellen Pflichtfelder in der [Bucharchitektur](Projekt/05_Bucharchitektur_v1.0.md).
 
 ## Aktueller Produktionsstand
 
-- alle 60 Buchseiten sind in 55 modularen Markdown-Dateien abgedeckt
+- die Bucharchitektur umfasst 64 Seiten
 - 53 Module sind redaktionell freigegeben
 - Lake Gibson bleibt unter Datenvorbehalt
 - im Impressum fehlen noch persönliche und verlegerische Pflichtangaben
 - alle fünf Fischillustrationen sind produziert und genehmigt
-- das vollständige P1-Kernset aus Icons, Montagen und Knoten ist technisch vorhanden
-- Montagen und Knotendiagramme warten noch auf die fachliche und didaktische Abnahme
+- das P1-Kernset aus Icons und Montagen ist technisch vorhanden
+- drei ausführliche Knotenanleitungen sind redaktionell angelegt; ihre fotografischen Schrittfolgen benötigen die fachliche Abnahme
 - 81 kanonische Asset-IDs sind im Produktionsregister erfasst
 
 Details liefern das [Produktionsaudit](Projekt/07_Produktionsaudit_v1.0.md) und die [Assetproduktionsliste](Design/15_Assetproduktionsliste_v1.0.md).

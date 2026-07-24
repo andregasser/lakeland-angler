@@ -39,8 +39,9 @@ Diese Liste ist das verbindliche Produktionsregister für die 60-Seiten-Fassung.
 | P1 | ICON-SHORE-ACCESS-001 | Icon | 43, 44, 45, 46, 48, 50, 51 | ja (7 Seitenmodule) | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
 | P1 | ICON-TEMPERATURE-001 | Icon | 55, 56, 57 | ja (3 Seitenmodule) | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
 | P1 | ICON-TIME-001 | Icon | 55, 56, 57 | ja (3 Seitenmodule) | SVG + PNG | Iconraster und Strichstärke | Gestalterisch zu prüfen |
-| P1 | KNOT-CLINCH-001 | Knotendiagramm | 38 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
-| P1 | KNOT-PALOMAR-001 | Knotendiagramm | 38 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
+| P1 | KNOT-CLINCH-STEP-001 | fotografische Knotenfolge | 58 | nein | PNG | fachliche Prüfung jedes Schnurverlaufs | Geplant |
+| P1 | KNOT-PALOMAR-STEP-001 | fotografische Knotenfolge | 59 | nein | PNG | fachliche Prüfung jedes Schnurverlaufs | Geplant |
+| P1 | KNOT-DOUBLE-UNI-STEP-001 | fotografische Knotenfolge | 60 | nein | PNG | fachliche Prüfung jedes Schnurverlaufs | Geplant |
 | P1 | RIG-BOBBER-001 | Montagezeichnung | 35 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
 | P1 | RIG-BOTTOM-001 | Montagezeichnung | 37 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |
 | P1 | RIG-JIG-MINNOW-001 | Montagezeichnung | 36 | nein | SVG + PNG | fachliche Montageabnahme | Fachlich zu prüfen |

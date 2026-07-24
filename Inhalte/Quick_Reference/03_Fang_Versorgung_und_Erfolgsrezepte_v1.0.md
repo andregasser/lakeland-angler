@@ -2,7 +2,7 @@
 dokument_id: "QRC-003"
 titel: "Fang, Versorgung und Erfolgsrezepte"
 seitentyp: "Quick Reference Card"
-zielseiten: "60"
+zielseiten: "63"
 version: "1.0"
 status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"

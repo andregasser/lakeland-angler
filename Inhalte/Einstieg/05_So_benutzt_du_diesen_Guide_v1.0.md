@@ -35,7 +35,7 @@ Icons für Ufer, Pier und Boot zeigen den Zugang. Fisch-, Köder-, Zeit- und Wet
 
 Regeln, Lizenzen, Sperren, Wetter, Algen- und Verzehrhinweise können sich ändern. Prüfe sie vor jedem Angeltag offiziell. Die Karten sind didaktische Übersichten, keine Navigation.
 
-Für die schnellste Entscheidung am Wasser nutze die Quick Reference Cards auf den Seiten 58–60.
+Die drei wichtigsten Knoten lernst du auf den Seiten 58–60 Schritt für Schritt. Für die schnellste Entscheidung am Wasser nutze die Quick Reference Cards auf den Seiten 61–63.
 
 > **Merksatz:** Monat wählen, Fisch festlegen, See prüfen, Setup packen – dann aktuelle Bedingungen kontrollieren.
 

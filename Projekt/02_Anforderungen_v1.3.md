@@ -20,11 +20,12 @@ Er soll:
 ## Format und Umfang
 
 - A5 Hochformat
-- ungefähr 60 Seiten
+- 64 Seiten
 - druckfähiges PDF und digitale Version
 - Magazinstil mit vielen Grafiken, Tabellen und Checklisten
 - wenig Fliesstext
 - Doppelseiten werden gestalterisch mitgedacht
+- drei eigenständige Knotenanleitungen mit Einsatzbereich, Schrittfolge, Kontrolle und Fehlerhinweis
 
 ## Sprache und Ton
 

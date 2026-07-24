@@ -3,7 +3,7 @@
 ## Produktionsrahmen
 
 - Format: A5 Hochformat
-- Zielumfang: 60 Seiten
+- Zielumfang: 64 Seiten
 - Schwerpunkt: Catch & Cook
 - Zielfische: Black Crappie, Tilapia, Bluegill, Redear Sunfish und Largemouth Bass
 
@@ -104,13 +104,27 @@
 | 56 | Fisch vom Grill | Rezeptseite | Gericht und Zubereitungs-Icons |
 | 57 | Florida Fish Tacos | Rezeptseite | Gericht und Zubereitungs-Icons |
 
-## Teil J – Quick Reference Cards
+## Teil J – Die drei wichtigsten Knoten
 
 | Seite | Inhalt | Seitentyp | Benötigte Assets |
 | ---: | --- | --- | --- |
-| 58 | Monate, Fische und Seen | Referenzkarte | Symbole und Vergleichstabelle |
-| 59 | Köder, Montagen und Ausrüstung | Referenzkarte | Köder- und Ausrüstungs-Icons |
-| 60 | Fang, Versorgung und Erfolgsrezepte | Referenzkarte | Prozess- und Rezept-Icons |
+| 58 | Improved Clinch: Endgerät sicher anbinden | Knotenanleitung | fotografische Schrittfolge |
+| 59 | Palomar: stark und einfach | Knotenanleitung | fotografische Schrittfolge |
+| 60 | Double Uni: Hauptschnur und Vorfach verbinden | Knotenanleitung | fotografische Schrittfolge |
+
+## Teil K – Quick Reference Cards
+
+| Seite | Inhalt | Seitentyp | Benötigte Assets |
+| ---: | --- | --- | --- |
+| 61 | Monate, Fische und Seen | Referenzkarte | Symbole und Vergleichstabelle |
+| 62 | Köder, Montagen und Ausrüstung | Referenzkarte | Köder- und Ausrüstungs-Icons |
+| 63 | Fang, Versorgung und Erfolgsrezepte | Referenzkarte | Prozess- und Rezept-Icons |
+
+## Teil L – Abschluss
+
+| Seite | Inhalt | Seitentyp | Benötigte Assets |
+| ---: | --- | --- | --- |
+| 64 | Rückseite | Backcover | Lakeland-Motiv und kurzer Buchtext |
 
 ## Produktionsstatus
 

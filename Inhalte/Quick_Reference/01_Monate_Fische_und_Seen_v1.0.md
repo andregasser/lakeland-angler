@@ -2,7 +2,7 @@
 dokument_id: "QRC-001"
 titel: "Monate, Fische und Seen"
 seitentyp: "Quick Reference Card"
-zielseiten: "58"
+zielseiten: "61"
 version: "1.0"
 status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"

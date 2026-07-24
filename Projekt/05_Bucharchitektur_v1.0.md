@@ -15,7 +15,7 @@ Jede Seite muss mindestens eine konkrete Frage beantworten. Die wichtigste Antwo
 ## Produktionsgrundlagen
 
 - Format: A5 Hochformat, 148 × 210 mm
-- Zielumfang: 60 Seiten einschliesslich Cover
+- Zielumfang: 64 Seiten einschliesslich Cover und Rückseite
 - Sprache: Deutsch mit englischen Fachbegriffen in Klammern
 - Ansprache: Du
 - maximal zwei Textspalten pro Seite
@@ -48,6 +48,7 @@ Die Wortbudgets sind Richtwerte für den redaktionellen Rohtext ohne Quellenanga
 | Fischprofil | 2 Seiten | 350–500 Wörter |
 | Köderübersicht | 1 Seite | 140–220 Wörter |
 | Montagezeichnung | 1 Seite | 120–200 Wörter |
+| Knotenanleitung | 1 Seite | 120–180 Wörter |
 | Ausrüstungsseite | 1 Seite | 140–220 Wörter |
 | Gewässerprofil | 1 Seite | 160–240 Wörter |
 | Prozessseite | 1 Seite | 130–220 Wörter |
@@ -243,6 +244,29 @@ Zeitlose Eigenschaften stehen vor Marken oder Produktbeispielen. Verpackungen un
 ### Abnahmekriterium
 
 Die Montage muss allein anhand von Zeichnung, Komponentenliste und Schritten nachbaubar sein.
+
+## Seitentyp F2 – Knotenanleitung
+
+**Ziel:** Einen Knoten ohne Vorwissen auswählen, nachbauen und sicher kontrollieren.
+
+### Pflichtinhalte
+
+- klarer Einsatzbereich
+- geeignete Schnurarten und Verbindungen
+- benötigte freie Schnurlänge
+- fünf bis sechs nummerierte Schritte
+- Anfeuchten und kontrolliertes Festziehen
+- Sicht- und Zugkontrolle
+- häufigster Fehler
+- Merksatz
+
+### Bildlogik
+
+Jeder Schritt zeigt denselben Knoten aus derselben Blickrichtung. Freies Ende und Hauptschnur werden farblich eindeutig unterschieden. Für die Produktion werden kontrastreiche, vergrösserte Schnur und ein stumpfes Übungs-Endgerät fotografiert.
+
+### Abnahmekriterium
+
+Der Knoten muss allein anhand von Schrittfolge und Fotos korrekt nachbaubar sein. Jeder sichtbare Schnurverlauf wird vor Freigabe fachlich mit dem Text abgeglichen.
 
 ## Seitentyp G – Ausrüstung
 

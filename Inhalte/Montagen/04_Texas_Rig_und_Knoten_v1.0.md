@@ -1,18 +1,18 @@
 ---
 dokument_id: "RIG-004"
-titel: "Texas Rig und einfache Knoten"
+titel: "Texas Rig und Knotenwahl"
 seitentyp: "Montageübersicht"
 zielseiten: "38"
 version: "1.0"
 status: "Redaktionell freigegeben"
 fachlich_geprueft_am: "2026-07-17"
 quellen_ids: ["SRC-FWC-019", "SRC-FWC-021", "SRC-FWC-024", "SRC-FWC-027"]
-asset_ids: ["RIG-TEXAS-001", "KNOT-CLINCH-001", "KNOT-PALOMAR-001"]
+asset_ids: ["RIG-TEXAS-001", "KNOT-CLINCH-STEP-001", "KNOT-PALOMAR-STEP-001", "KNOT-DOUBLE-UNI-STEP-001"]
 ---
 
-# Texas Rig und einfache Knoten
+# Texas Rig und Knotenwahl
 
-Das krautarme Bass-Rig plus zwei Knoten für fast alle Endgeräte im Guide.
+Das krautarme Bass-Rig plus die schnelle Wahl des passenden Knotens.
 
 ## Du brauchst
 
@@ -25,19 +25,13 @@ Das krautarme Bass-Rig plus zwei Knoten für fast alle Endgeräte im Guide.
 2. Offsethaken mit Palomar- oder Clinch-Knoten anbinden.
 3. Softplastic vorne einstechen, drehen und gerade, krautarm auf den Haken setzen.
 
-## Clinch-Knoten
+## Welcher Knoten?
 
-1. Schnurende etwa 15 cm durch das Öhr führen.
-2. Ende fünfmal um die Hauptschnur wickeln.
-3. Durch die kleine Schlaufe am Öhr und danach durch die grosse Schlaufe führen.
-4. Anfeuchten, gleichmässig festziehen und Restende kürzen.
-
-## Palomar-Knoten
-
-1. Etwa 20 cm Schnur doppeln und die Schlaufe durchs Öhr führen.
-2. Mit der doppelten Schnur einen lockeren Überhandknoten legen.
-3. Die grosse Schlaufe vollständig über Haken oder Köder führen.
-4. Anfeuchten, beide Schnurteile gleichmässig anziehen und Restende kürzen.
+| Verbindung | Erste Wahl | Anleitung |
+| --- | --- | ---: |
+| Mono oder Fluorocarbon an Haken, Jig oder Wirbel | Improved Clinch | Seite 58 |
+| Geflochtene Schnur oder besonders starke Direktverbindung | Palomar | Seite 59 |
+| Hauptschnur mit Mono- oder Fluorocarbon-Vorfach | Double Uni | Seite 60 |
 
 ## Anwendung
 
@@ -52,4 +46,4 @@ Ein gekrümmter Worm dreht sich. Hakenposition neu setzen, bis der Köder vollko
 ## Produktionsnotizen
 
 - Offene Faktenprüfung: finale Haken-/Gewichtsklassen
-- Benötigte Assets: Texas-Rig-Sequenz sowie Clinch- und Palomar-Schrittdiagramme
+- Benötigte Assets: Texas-Rig-Sequenz und kompakte Knotenwahl; vollständige Knotenanleitungen auf den Seiten 58–60
